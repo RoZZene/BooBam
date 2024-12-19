@@ -129,6 +129,8 @@
       "apple": "2024-12-19 01:24:36 +0000",
       "mutton": "2024-12-19 04:10:48 +0000",
       "bread": "2024-12-19 04:41:01 +0000",
+      "golden_apple": "2024-12-19 22:44:02 +0000",
+      "rotten_flesh": "2024-12-19 22:44:40 +0000",
       "mushroom_stew": "2024-12-19 04:18:14 +0000"
     },
     "done": false
@@ -419,9 +421,21 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2024-12-19 22:50:39 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2024-12-19 22:24:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 22:45:27 +0000"
     },
     "done": true
   },

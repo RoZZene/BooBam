@@ -891,3 +891,56 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 22:42:30.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Teleported Duxaethera to Roxanne711]
 [19Dec2024 22:42:40.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5072ms or 101 ticks behind
 [19Dec2024 22:42:47.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> q coño haces?
+[19Dec2024 22:43:05.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> eso
+[19Dec2024 22:43:11.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15452ms or 309 ticks behind
+[19Dec2024 22:43:30.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3697ms or 73 ticks behind
+[19Dec2024 22:43:37.165] [Server thread/WARN] [tombstone/]: The death event of the player Duxaethera was canceled by another mod
+[19Dec2024 22:43:37.323] [Server thread/INFO] [tombstone/]: The player Duxaethera has successfully been saved
+[19Dec2024 22:43:49.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4129ms or 82 ticks behind
+[19Dec2024 22:44:07.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3019ms or 60 ticks behind
+[19Dec2024 22:44:13.751] [Server thread/WARN] [tombstone/]: The death event of the player Duxaethera was canceled by another mod
+[19Dec2024 22:44:13.815] [Server thread/INFO] [tombstone/]: The player Duxaethera has successfully been saved
+[19Dec2024 22:44:25.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3829ms or 76 ticks behind
+[19Dec2024 22:44:28.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> alv
+[19Dec2024 22:44:43.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2577ms or 51 ticks behind
+[19Dec2024 22:44:48.493] [Server thread/WARN] [tombstone/]: The death event of the player Roxanne711 was canceled by another mod
+[19Dec2024 22:44:48.568] [Server thread/INFO] [tombstone/]: The player Roxanne711 has successfully been saved
+[19Dec2024 22:45:00.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
+[19Dec2024 22:45:01.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> perate
+[19Dec2024 22:45:18.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[19Dec2024 22:45:27.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has made the advancement [Mutual Aid]
+[19Dec2024 22:45:36.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[19Dec2024 22:46:40.343] [Server thread/WARN] [tombstone/]: The death event of the player Duxaethera was canceled by another mod
+[19Dec2024 22:46:40.384] [Server thread/INFO] [tombstone/]: The player Duxaethera has successfully been saved
+[19Dec2024 22:47:02.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: st_Div moved too quickly! -15194.693494632822,-94.67647087614428,13720.318311314908
+[19Dec2024 22:47:03.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2140ms or 42 ticks behind
+[19Dec2024 22:47:09.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> XD de un solo coñaso
+[19Dec2024 22:47:24.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6625ms or 132 ticks behind
+[19Dec2024 22:47:52.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[19Dec2024 22:48:26.557] [Server thread/WARN] [tombstone/]: The death event of the player Duxaethera was canceled by another mod
+[19Dec2024 22:48:26.652] [Server thread/INFO] [tombstone/]: The player Duxaethera has successfully been saved
+[19Dec2024 22:48:34.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> mi escudo
+[19Dec2024 22:48:44.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> se lo chingo
+[19Dec2024 22:48:55.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19Dec2024 22:49:12.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2186ms or 43 ticks behind
+[19Dec2024 22:49:54.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> dale en la espalda cuando se atore
+[19Dec2024 22:50:03.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> espada
+[19Dec2024 22:50:13.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[19Dec2024 22:50:30.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2095ms or 41 ticks behind
+[19Dec2024 22:50:39.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has completed the challenge [Just a Flesh Wound]
+[19Dec2024 22:50:46.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> buena
+[19Dec2024 22:50:51.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[19Dec2024 22:50:55.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> casco o hacha?
+[19Dec2024 22:51:09.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3482ms or 69 ticks behind
+[19Dec2024 22:51:14.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> sorry
+[19Dec2024 22:51:18.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> casco
+[19Dec2024 22:51:32.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[19Dec2024 22:51:52.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4732ms or 94 ticks behind
+[19Dec2024 22:51:57.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> q tal el hacha
+[19Dec2024 22:52:05.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> esta buenarda
+[19Dec2024 22:52:20.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13067ms or 261 ticks behind
+[19Dec2024 22:52:38.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> bueno, seguire minandoun
+[19Dec2024 22:52:40.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5642ms or 112 ticks behind
+[19Dec2024 22:52:48.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> ok
+[19Dec2024 22:52:52.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 has made the advancement [Best Friends Forever]
+[19Dec2024 22:53:00.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4733ms or 94 ticks behind
