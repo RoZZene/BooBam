@@ -399,9 +399,9 @@
     },
     "done": true
   },
-  "paraglider:root": {
+  "mowziesmobs:kill_naga": {
     "criteria": {
-      "crafting_table": "2024-12-19 21:09:29 +0000"
+      "naga": "2024-12-19 21:02:20 +0000"
     },
     "done": true
   },
@@ -411,9 +411,9 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_naga": {
+  "paraglider:root": {
     "criteria": {
-      "naga": "2024-12-19 21:02:20 +0000"
+      "crafting_table": "2024-12-19 21:09:29 +0000"
     },
     "done": true
   },

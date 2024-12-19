@@ -449,6 +449,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2024-12-19 21:48:56 +0000",
       "minecraft:chicken": "2024-12-19 01:51:45 +0000"
     },
     "done": false
@@ -528,6 +529,24 @@
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed": "2024-12-19 21:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-19 21:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-19 21:42:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_fortress": "2024-12-19 21:40:41 +0000"
     },
     "done": true
   },
