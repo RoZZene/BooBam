@@ -502,12 +502,6 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2024-12-19 01:30:31 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
       "killed_by": "2024-12-19 01:32:09 +0000"
@@ -547,6 +541,24 @@
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2024-12-19 03:34:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-12-19 19:17:58 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-12-19 19:17:58 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-12-19 19:17:58 +0000"
     },
     "done": true
   },
