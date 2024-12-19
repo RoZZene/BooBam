@@ -713,3 +713,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 20:54:45.814] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Roxanne711[/127.130.171.145:51289] logged in with entity id 3379 at (-2090.7874639322317, 84.7531999805212, 1911.521057178568)
 [19Dec2024 20:54:45.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 joined the game
 [19Dec2024 20:54:50.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[19Dec2024 21:02:20.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has made the advancement [Wingin' It]
+[19Dec2024 21:04:55.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has made the advancement [Ambush]
+[19Dec2024 21:06:46.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2106, y=91, z=1929} BlockPos{x=-2106, y=91, z=1928}
+[19Dec2024 21:10:52.796] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[19Dec2024 21:10:58.997] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2062, y=115, z=1727} BlockPos{x=-2062, y=115, z=1728}
+[19Dec2024 21:11:24.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19Dec2024 21:11:50.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
