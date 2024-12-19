@@ -779,6 +779,24 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-19 03:54:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:upgrade_netherite_weapon": {
+    "criteria": {
+      "has_netherite_weapon": "2024-12-19 04:05:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-12-19 04:12:04 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2024-12-19 04:20:34 +0000"
@@ -815,18 +833,6 @@
     },
     "done": false
   },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2024-12-19 03:54:02 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:upgrade_netherite_weapon": {
-    "criteria": {
-      "has_netherite_weapon": "2024-12-19 04:05:27 +0000"
-    },
-    "done": true
-  },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
       "log_spam_fixer": "2024-12-19 04:20:34 +0000"
@@ -845,23 +851,11 @@
     },
     "done": false
   },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2024-12-19 03:53:53 +0000"
-    },
-    "done": true
-  },
   "incendium:technical/give_ghastling": {
     "criteria": {
       "log_spam_fixer": "2024-12-19 04:20:34 +0000"
     },
     "done": false
-  },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2024-12-19 04:12:04 +0000"
-    },
-    "done": true
   },
   "incendium:technical/on_kill": {
     "criteria": {
