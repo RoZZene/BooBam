@@ -569,6 +569,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "fire_beetle": "2024-12-19 22:55:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_fortress": "2024-12-19 21:40:43 +0000"
