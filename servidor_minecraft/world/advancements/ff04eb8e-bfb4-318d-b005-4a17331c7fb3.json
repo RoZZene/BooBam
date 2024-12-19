@@ -126,6 +126,7 @@
       "cooked_porkchop": "2024-12-19 02:58:03 +0000",
       "cooked_mutton": "2024-12-19 01:39:19 +0000",
       "cooked_beef": "2024-12-19 02:40:43 +0000",
+      "baked_potato": "2024-12-19 23:43:58 +0000",
       "apple": "2024-12-19 01:24:36 +0000",
       "mutton": "2024-12-19 04:10:48 +0000",
       "bread": "2024-12-19 04:41:01 +0000",
@@ -422,17 +423,29 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-19 22:24:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 22:45:27 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
       "ferrous_wroughtnaut": "2024-12-19 22:50:39 +0000"
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "minecraft:basalt_deltas": "2024-12-19 23:11:50 +0000"
+      "diamond_helmet": "2024-12-19 23:07:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:root": {
     "criteria": {
@@ -452,23 +465,11 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "diamond_helmet": "2024-12-19 23:07:13 +0000"
+      "minecraft:basalt_deltas": "2024-12-19 23:11:50 +0000"
     },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2024-12-19 22:24:14 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/mutual_aid": {
-    "criteria": {
-      "coded_trigger": "2024-12-19 22:45:27 +0000"
-    },
-    "done": true
+    "done": false
   },
   "DataVersion": 3465
 }
