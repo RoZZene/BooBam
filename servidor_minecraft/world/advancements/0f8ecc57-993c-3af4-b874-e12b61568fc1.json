@@ -529,6 +529,7 @@
     "criteria": {
       "incendium:ash_barrens": "2024-12-18 01:45:58 +0000",
       "incendium:quartz_flats": "2024-12-18 01:47:17 +0000",
+      "incendium:volcanic_deltas": "2024-12-19 18:51:31 +0000",
       "incendium:toxic_heap": "2024-12-18 01:41:21 +0000"
     },
     "done": false
@@ -797,77 +798,35 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "iceandfire:iceandfire/root": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 04:20:34 +0000"
+      "tick": "2024-12-19 18:41:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "betterdungeons:root": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 04:20:34 +0000"
+      "always": "2024-12-19 18:41:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "betterdeserttemples:root": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 04:20:34 +0000"
+      "always": "2024-12-19 18:41:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 04:20:34 +0000"
+      "enchanted_item": "2024-12-19 18:46:31 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "incendium:volcanic_deltas/root": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 04:20:34 +0000"
+      "incendium:volcanic_deltas": "2024-12-19 18:51:31 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 04:20:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 04:20:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 04:20:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 04:20:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 04:20:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 04:20:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 04:20:34 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }

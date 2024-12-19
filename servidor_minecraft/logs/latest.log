@@ -703,3 +703,44 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 18:42:49.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> buscalo mejor debe estar por ahi
 [19Dec2024 18:42:49.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> diablo pusieron el ice and fire
 [19Dec2024 18:43:38.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[19Dec2024 18:43:57.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3801ms or 76 ticks behind
+[19Dec2024 18:45:39.273] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz lost connection: Timed out
+[19Dec2024 18:45:39.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz left the game
+[19Dec2024 18:45:39.498] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 18:45:41.644] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Capybara_Zzz[/127.89.56.177:51547] logged in with entity id 4055 at (-1205.7241650190354, 119.875, 2589.6889359560173)
+[19Dec2024 18:45:41.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz joined the game
+[19Dec2024 18:46:31.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Enchanter]
+[19Dec2024 18:46:42.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> diablo q velocida
+[19Dec2024 18:46:43.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> q felicidad
+[19Dec2024 18:46:59.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> por cierto rey
+[19Dec2024 18:47:05.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> digalo
+[19Dec2024 18:47:17.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> vamos a conectar nuestros portales
+[19Dec2024 18:47:24.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> pasa coords de tu portal
+[19Dec2024 18:47:31.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> voy
+[19Dec2024 18:47:59.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roxanne711 moved too quickly! 1.9757601749065543,0.0,-9.888095964158765
+[19Dec2024 18:47:59.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11089ms or 221 ticks behind
+[19Dec2024 18:48:30.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15634ms or 312 ticks behind
+[19Dec2024 18:49:24.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> 251/55/218
+[19Dec2024 18:49:32.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[19Dec2024 18:49:53.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6226ms or 124 ticks behind
+[19Dec2024 18:49:53.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-178, y=182, z=312} BlockPos{x=-178, y=183, z=312}
+[19Dec2024 18:49:53.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-178, y=182, z=312} BlockPos{x=-178, y=183, z=312}
+[19Dec2024 18:49:53.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-178, y=182, z=312} BlockPos{x=-178, y=183, z=312}
+[19Dec2024 18:49:53.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-178, y=182, z=312} BlockPos{x=-178, y=183, z=312}
+[19Dec2024 18:49:53.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-178, y=182, z=312} BlockPos{x=-178, y=183, z=312}
+[19Dec2024 18:49:53.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-178, y=182, z=312} BlockPos{x=-178, y=183, z=312}
+[19Dec2024 18:49:53.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-178, y=182, z=312} BlockPos{x=-178, y=183, z=312}
+[19Dec2024 18:49:54.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-178, y=182, z=312} BlockPos{x=-178, y=183, z=312}
+[19Dec2024 18:49:54.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-178, y=182, z=312} BlockPos{x=-178, y=183, z=312}
+[19Dec2024 18:49:54.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-178, y=182, z=312} BlockPos{x=-178, y=183, z=312}
+[19Dec2024 18:50:10.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2321ms or 46 ticks behind
+[19Dec2024 18:50:39.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[19Dec2024 18:51:12.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[19Dec2024 18:51:31.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Hellfire Mantle]
+[19Dec2024 18:51:33.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[19Dec2024 18:51:54.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5821ms or 116 ticks behind
+[19Dec2024 18:52:19.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9706ms or 194 ticks behind
+[19Dec2024 18:52:36.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[19Dec2024 18:52:57.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5546ms or 110 ticks behind
+[19Dec2024 18:53:14.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[19Dec2024 18:53:45.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
