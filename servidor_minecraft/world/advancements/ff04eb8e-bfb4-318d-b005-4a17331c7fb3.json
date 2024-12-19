@@ -131,6 +131,7 @@
       "bread": "2024-12-19 04:41:01 +0000",
       "golden_apple": "2024-12-19 22:44:02 +0000",
       "rotten_flesh": "2024-12-19 22:44:40 +0000",
+      "glow_berries": "2024-12-19 23:11:39 +0000",
       "mushroom_stew": "2024-12-19 04:18:14 +0000"
     },
     "done": false
@@ -424,6 +425,30 @@
   "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
       "ferrous_wroughtnaut": "2024-12-19 22:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2024-12-19 23:11:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2024-12-19 23:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-19 23:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-19 23:11:48 +0000"
     },
     "done": true
   },

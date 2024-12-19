@@ -1022,3 +1022,32 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 23:13:49.388] [Server thread/INFO] [tombstone/]: The player st_Div has successfully been saved
 [19Dec2024 23:13:55.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> taba buscando al div por el nether XD
 [19Dec2024 23:14:05.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> no me parezco tanto
+[19Dec2024 23:14:14.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> un regalo
+[19Dec2024 23:14:15.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
+[19Dec2024 23:14:37.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7098ms or 141 ticks behind
+[19Dec2024 23:14:56.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
+[19Dec2024 23:14:56.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> bai
+[19Dec2024 23:15:00.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div joined the Wraith's haunt
+[19Dec2024 23:15:24.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13283ms or 265 ticks behind
+[19Dec2024 23:15:51.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12395ms or 247 ticks behind
+[19Dec2024 23:16:22.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15906ms or 318 ticks behind
+[19Dec2024 23:16:53.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15846ms or 316 ticks behind
+[19Dec2024 23:17:21.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13373ms or 267 ticks behind
+[19Dec2024 23:17:47.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10793ms or 215 ticks behind
+[19Dec2024 23:17:53.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Roxanne711[/127.130.171.145:36317] logged in with entity id 54007 at (-2101.300000011921, 14.0, 1853.1047920112678)
+[19Dec2024 23:17:53.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 joined the game
+[19Dec2024 23:18:17.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14810ms or 296 ticks behind
+[19Dec2024 23:18:46.556] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14131ms or 282 ticks behind
+[19Dec2024 23:18:47.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Teleported Roxanne711 to -2100.500000, 88.000000, 1885.500000]
+[19Dec2024 23:19:13.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12422ms or 248 ticks behind
+[19Dec2024 23:19:40.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11945ms or 238 ticks behind
+[19Dec2024 23:20:05.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9806ms or 196 ticks behind
+[19Dec2024 23:20:30.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9568ms or 191 ticks behind
+[19Dec2024 23:20:55.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10741ms or 214 ticks behind
+[19Dec2024 23:21:19.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8176ms or 163 ticks behind
+[19Dec2024 23:21:44.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10136ms or 202 ticks behind
+[19Dec2024 23:22:10.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11475ms or 229 ticks behind
+[19Dec2024 23:22:37.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12193ms or 243 ticks behind
+[19Dec2024 23:23:06.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14123ms or 282 ticks behind
+[19Dec2024 23:23:35.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13275ms or 265 ticks behind
+[19Dec2024 23:24:04.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14455ms or 289 ticks behind
