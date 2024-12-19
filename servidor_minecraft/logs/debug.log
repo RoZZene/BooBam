@@ -10697,3 +10697,170 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 19:25:34.979] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-17364.30, y=82.18, z=15591.96] in list []
 [19Dec2024 19:25:35.304] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-17364.68, y=82.00, z=15592.59]
 [19Dec2024 19:25:50.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15150ms or 303 ticks behind
+[19Dec2024 19:26:27.229] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-17364.30, y=79.00, z=15589.66], dimensionLocationPath twilight_forest
+[19Dec2024 19:26:27.230] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-17364.30, y=79.00, z=15589.66] in list []
+[19Dec2024 19:26:27.360] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-17364.30, y=79.00, z=15589.66]
+[19Dec2024 19:26:33.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27762ms or 555 ticks behind
+[19Dec2024 19:26:47.974] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 19:26:48.728] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 19:26:51.644] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 19:26:52.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Into Fire]
+[19Dec2024 19:27:00.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12137ms or 242 ticks behind
+[19Dec2024 19:27:26.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10894ms or 217 ticks behind
+[19Dec2024 19:27:29.399] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 19:27:29.619] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 19:27:29.943] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 19:27:30.200] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 19:27:30.305] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 19:27:30.806] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 19:27:30.889] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 19:27:31.022] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 19:27:31.236] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 19:27:33.985] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 19:27:33.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 has made the advancement [The Silence of the Forest]
+[19Dec2024 19:27:40.132] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-2157, y=98, z=1974}
+[19Dec2024 19:27:41.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 moved too quickly! 15197.637784712646,95.32352912385574,-13720.881524893659
+[19Dec2024 19:27:41.429] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2155.50, y=99.00, z=1974.50], dimensionLocationPath overworld
+[19Dec2024 19:27:41.430] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2155.50, y=99.00, z=1974.50] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@373, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@374, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@375, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@369, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36a, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36b, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36c]
+[19Dec2024 19:27:52.152] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2155.50, y=99.00, z=1974.50]
+[19Dec2024 19:28:03.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22291ms or 445 ticks behind
+[19Dec2024 19:28:08.661] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2155.50, y=99.00, z=1974.50], dimensionLocationPath overworld
+[19Dec2024 19:28:08.661] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2155.50, y=99.00, z=1974.50] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@373, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@374, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@375, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@369, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36a, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36b, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36c]
+[19Dec2024 19:28:08.734] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2155.50, y=99.00, z=1974.50]
+[19Dec2024 19:28:21.600] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2151.02, y=95.00, z=1965.90], dimensionLocationPath overworld
+[19Dec2024 19:28:21.600] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2151.02, y=95.00, z=1965.90] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@373, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@374, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@375, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@369, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36a, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36b, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36c]
+[19Dec2024 19:28:22.585] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2148.22, y=97.25, z=1960.47]
+[19Dec2024 19:28:25.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6722ms or 134 ticks behind
+[19Dec2024 19:28:44.499] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2098.24, y=87.18, z=1900.60], dimensionLocationPath overworld
+[19Dec2024 19:28:44.500] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2098.24, y=87.18, z=1900.60] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@373, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@374, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@375, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@369, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36a, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36b, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36c]
+[19Dec2024 19:28:44.559] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2098.27, y=87.02, z=1900.31]
+[19Dec2024 19:28:46.142] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 19:28:47.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6716ms or 134 ticks behind
+[19Dec2024 19:29:25.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23003ms or 460 ticks behind
+[19Dec2024 19:29:44.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4460ms or 89 ticks behind
+[19Dec2024 19:30:02.469] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 19:30:03.954] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 19:30:06.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7209ms or 144 ticks behind
+[19Dec2024 19:30:14.329] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2008.49, y=117.00, z=1928.58], dimensionLocationPath overworld
+[19Dec2024 19:30:14.329] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2008.49, y=117.00, z=1928.58] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@373, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@374, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@375, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@369, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36a, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36b, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36c]
+[19Dec2024 19:30:14.417] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2007.48, y=117.00, z=1928.70]
+[19Dec2024 19:30:28.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7278ms or 145 ticks behind
+[19Dec2024 19:30:47.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz moved too quickly! 7.65597251609347,0.5475485219240284,-6.656236671152783
+[19Dec2024 19:30:57.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13602ms or 272 ticks behind
+[19Dec2024 19:31:16.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3705ms or 74 ticks behind
+[19Dec2024 19:31:35.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4398ms or 87 ticks behind
+[19Dec2024 19:31:56.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 19:31:56.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 19:31:56.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz moved too quickly! -0.7035895862231882,-2.0,-9.79370573833512
+[19Dec2024 19:31:56.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 moved too quickly! -9.02884216304301,-2.0,4.276058644816203
+[19Dec2024 19:31:58.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: st_Div moved too quickly! 8.730446940123784,-0.1906999805212024,-5.349782636655391
+[19Dec2024 19:32:01.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 moved too quickly! -8.40654458782592,-1.755490737535908,5.251558863365744
+[19Dec2024 19:32:08.028] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 19:32:08.940] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 19:32:09.544] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 19:32:09.842] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:09.875] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:09.907] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:09.940] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:09.971] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:10.000] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:10.029] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:10.062] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:10.097] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:10.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19547ms or 390 ticks behind
+[19Dec2024 19:32:10.143] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:10.175] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:10.233] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:10.302] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:10.394] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:10.469] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:10.528] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:10.643] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:10.709] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:10.763] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:10.957] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:11.079] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:11.135] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:11.169] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:11.201] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:11.234] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:11.266] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:11.296] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:11.329] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:11.330] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 19:32:11.367] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:11.399] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:11.431] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:11.464] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:11.768] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:11.848] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:12.162] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:12.225] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:12.309] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:12.391] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:12.469] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:12.523] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:12.635] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:12.697] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:12.735] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:12.777] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:12.834] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:14.024] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:14.086] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:14.165] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:14.249] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:14.314] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:14.376] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:14.436] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:14.498] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:14.564] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:19.040] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz lost connection: Disconnected
+[19Dec2024 19:32:19.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz left the game
+[19Dec2024 19:32:27.595] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:27.648] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:27.687] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:27.730] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:27.772] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:27.809] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:27.846] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:27.897] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:27.948] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:27.987] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:28.025] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:28.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2971ms or 59 ticks behind
+[19Dec2024 19:32:28.081] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:28.122] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:28.176] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:28.222] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:28.275] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:28.348] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:28.391] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:28.444] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:28.478] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:28.535] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:28.578] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:28.635] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[19Dec2024 19:32:45.770] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Duxaethera'/9630, l='ServerLevel[world]', x=-2049.74, y=101.00, z=1878.35], dimensionLocationPath overworld
+[19Dec2024 19:32:45.771] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Duxaethera'/9630, l='ServerLevel[world]', x=-2049.74, y=101.00, z=1878.35] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@373, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@374, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@375, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@369, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36a, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36b, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36c]
+[19Dec2024 19:32:56.939] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Duxaethera'/9630, l='ServerLevel[world]', x=-2047.96, y=101.00, z=1878.57]
+[19Dec2024 19:33:18.562] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2093.83, y=89.00, z=1926.10], dimensionLocationPath overworld
+[19Dec2024 19:33:18.564] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2093.83, y=89.00, z=1926.10] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@373, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@374, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@375, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@369, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36a, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36b, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36c]
+[19Dec2024 19:33:18.854] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2093.83, y=89.00, z=1926.10]
+[19Dec2024 19:33:26.592] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2091.39, y=84.00, z=1914.40], dimensionLocationPath overworld
+[19Dec2024 19:33:26.593] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2091.39, y=84.00, z=1914.40] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@373, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@374, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@375, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@369, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36a, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36b, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36c]
+[19Dec2024 19:33:26.644] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2091.06, y=84.00, z=1914.42]
+[19Dec2024 19:33:38.389] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2116.44, y=86.00, z=1915.15], dimensionLocationPath overworld
+[19Dec2024 19:33:38.389] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2116.44, y=86.00, z=1915.15] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@373, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@374, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@375, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@369, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36a, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36b, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36c]
+[19Dec2024 19:33:38.430] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2116.28, y=86.00, z=1914.92]
+[19Dec2024 19:33:54.735] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2098.99, y=86.00, z=1900.88], dimensionLocationPath overworld
+[19Dec2024 19:33:54.735] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2098.99, y=86.00, z=1900.88] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@373, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@374, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@375, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@369, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36a, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36b, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36c]
+[19Dec2024 19:33:54.778] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-2098.83, y=86.00, z=1901.02]
+[19Dec2024 19:35:26.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[19Dec2024 19:35:35.666] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/31106, l='ServerLevel[world]', x=-1725.13, y=38.02, z=1842.88], dimensionLocationPath overworld
+[19Dec2024 19:35:35.666] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/31106, l='ServerLevel[world]', x=-1725.13, y=38.02, z=1842.88] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@373, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@374, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@375, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@369, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36a, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36b, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36c]
+[19Dec2024 19:35:42.379] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Redstone Torch'/31106, l='ServerLevel[world]', x=-1725.13, y=38.02, z=1842.88]
+[19Dec2024 19:35:50.604] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-1854.30, y=96.00, z=1848.50], dimensionLocationPath overworld
+[19Dec2024 19:35:50.604] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-1854.30, y=96.00, z=1848.50] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@373, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@374, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@375, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@369, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36a, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36b, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@36c]
+[19Dec2024 19:35:50.655] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['drewfm236'/19186, l='ServerLevel[world]', x=-1854.30, y=96.42, z=1848.57]
+[19Dec2024 19:36:05.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[19Dec2024 19:36:28.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7993ms or 159 ticks behind
