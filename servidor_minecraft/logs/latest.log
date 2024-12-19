@@ -693,3 +693,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 18:26:29.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 joined the game
 [19Dec2024 18:26:34.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5905ms or 118 ticks behind
 [19Dec2024 18:26:59.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9405ms or 188 ticks behind
+[19Dec2024 18:41:53.641] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Capybara_Zzz[/127.212.114.124:57151] logged in with entity id 2888 at (-1206.503837604501, 119.0, 2588.611501527718)
+[19Dec2024 18:41:53.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz joined the game
+[19Dec2024 18:41:54.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Ice and Fire]
+[19Dec2024 18:41:58.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5275ms or 105 ticks behind
+[19Dec2024 18:42:18.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> pasen polno carajo
+[19Dec2024 18:42:20.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7088ms or 141 ticks behind
+[19Dec2024 18:42:38.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2385ms or 47 ticks behind
+[19Dec2024 18:42:49.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> buscalo mejor debe estar por ahi
+[19Dec2024 18:42:49.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> diablo pusieron el ice and fire
+[19Dec2024 18:43:38.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
