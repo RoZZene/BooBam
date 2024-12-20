@@ -399,6 +399,7 @@
       "twilight_oak_door": "2024-12-19 21:01:33 +0000",
       "twilight_oak_stairs": "2024-12-19 21:13:29 +0000",
       "darkwood_sapling": "2024-12-20 23:06:21 +0000",
+      "twilight_oak_chest": "2024-12-20 23:16:43 +0000",
       "twilight_oak_log": "2024-12-19 01:25:28 +0000",
       "twilight_oak_wood": "2024-12-19 01:26:14 +0000",
       "twilight_oak_sapling": "2024-12-18 20:31:13 +0000",
@@ -537,6 +538,18 @@
       "obsidian": "2024-12-20 21:55:51 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2024-12-20 23:15:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2024-12-20 23:15:51 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
