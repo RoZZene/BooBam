@@ -10391,3 +10391,66 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 23:32:08.339] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Duxaethera'/2456, l='ServerLevel[world]', x=-2030.78, y=-51.00, z=2134.10] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37a, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37b, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37c, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37e, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@385, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@386, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@387]
 [20Dec2024 23:32:23.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9303ms or 186 ticks behind
 [20Dec2024 23:32:44.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5816ms or 116 ticks behind
+[20Dec2024 23:33:10.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10685ms or 213 ticks behind
+[20Dec2024 23:33:36.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10968ms or 219 ticks behind
+[20Dec2024 23:33:56.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5713ms or 114 ticks behind
+[20Dec2024 23:34:15.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4148ms or 82 ticks behind
+[20Dec2024 23:34:19.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Teleported Roxanne711 to -2100.500000, 88.000000, 1885.500000]
+[20Dec2024 23:34:22.535] [Server thread/WARN] [tombstone/]: The death event of the player Roxanne711 was canceled by another mod
+[20Dec2024 23:34:22.547] [Server thread/INFO] [tombstone/]: The player Roxanne711 has successfully been saved
+[20Dec2024 23:34:28.477] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Duxaethera'/2456, l='ServerLevel[world]', x=-2030.64, y=-51.00, z=2043.05]
+[20Dec2024 23:34:38.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Teleported Roxanne711 to drewfm236]
+[20Dec2024 23:34:46.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16040ms or 320 ticks behind
+[20Dec2024 23:35:09.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7787ms or 155 ticks behind
+[20Dec2024 23:35:30.328] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 23:35:30.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 23:35:35.582] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Duxaethera'/2456, l='ServerLevel[world]', x=-2030.39, y=52.00, z=1913.94], dimensionLocationPath overworld
+[20Dec2024 23:35:35.583] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Duxaethera'/2456, l='ServerLevel[world]', x=-2030.39, y=52.00, z=1913.94] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37a, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37b, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37c, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37e, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@385, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@386, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@387]
+[20Dec2024 23:35:38.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13980ms or 279 ticks behind
+[20Dec2024 23:35:42.259] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/44735, l='ServerLevel[world]', x=-16597.49, y=77.13, z=15200.69], dimensionLocationPath twilight_forest
+[20Dec2024 23:35:42.260] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/44735, l='ServerLevel[world]', x=-16597.49, y=77.13, z=15200.69] in list []
+[20Dec2024 23:36:10.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16613ms or 332 ticks behind
+[20Dec2024 23:36:37.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12743ms or 254 ticks behind
+[20Dec2024 23:37:10.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17973ms or 359 ticks behind
+[20Dec2024 23:37:40.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14297ms or 285 ticks behind
+[20Dec2024 23:38:07.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12417ms or 248 ticks behind
+[20Dec2024 23:38:33.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10795ms or 215 ticks behind
+[20Dec2024 23:39:03.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15383ms or 307 ticks behind
+[20Dec2024 23:39:08.999] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:39:10.238] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:39:11.014] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:39:11.811] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:39:13.488] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:39:13.493] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Dec2024 23:39:37.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18822ms or 376 ticks behind
+[20Dec2024 23:39:58.102] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/44735, l='ServerLevel[world]', x=-16598.25, y=31.00, z=15198.24, removed=UNLOADED_TO_CHUNK]
+[20Dec2024 23:40:08.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16010ms or 320 ticks behind
+[20Dec2024 23:40:11.617] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Duxaethera'/2456, l='ServerLevel[world]', x=-2040.72, y=101.00, z=1879.49]
+[20Dec2024 23:40:30.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6732ms or 134 ticks behind
+[20Dec2024 23:40:45.261] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:40:45.998] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:40:46.790] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:40:48.407] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:40:49.609] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:40:50.175] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:40:52.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7583ms or 151 ticks behind
+[20Dec2024 23:40:52.885] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:41:07.760] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:41:09.827] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:41:13.082] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:41:17.877] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:41:19.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12105ms or 242 ticks behind
+[20Dec2024 23:41:39.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4510ms or 90 ticks behind
+[20Dec2024 23:41:59.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5136ms or 102 ticks behind
+[20Dec2024 23:42:17.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2871ms or 57 ticks behind
+[20Dec2024 23:42:22.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 has reached the goal [Half a flight]
+[20Dec2024 23:42:36.819] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:42:37.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5169ms or 103 ticks behind
+[20Dec2024 23:42:38.060] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:42:40.789] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 23:42:46.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> es un ala delta?
+[20Dec2024 23:42:56.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> ci
+[20Dec2024 23:42:56.888] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4502ms or 90 ticks behind
+[20Dec2024 23:42:59.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> gracias
+[20Dec2024 23:43:07.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> esq amdo muy alto y ya me ando muriendo
+[20Dec2024 23:43:17.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5462ms or 109 ticks behind

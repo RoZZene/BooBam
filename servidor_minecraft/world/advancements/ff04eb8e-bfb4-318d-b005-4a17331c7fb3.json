@@ -579,12 +579,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-20 23:26:49 +0000"
-    },
-    "done": false
-  },
   "paraglider:paraglider": {
     "criteria": {
       "paraglider": "2024-12-20 23:07:09 +0000"
