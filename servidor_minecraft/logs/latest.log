@@ -720,3 +720,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 20:40:58.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz was kicked for floating too long!
 [20Dec2024 20:40:59.032] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz lost connection: Flying is not enabled on this server
 [20Dec2024 20:40:59.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz left the game
+[20Dec2024 20:41:32.244] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Capybara_Zzz[/127.255.57.125:51259] logged in with entity id 5039 at (-1172.771202947279, 114.00133597911214, 2585.9156200053217)
+[20Dec2024 20:41:32.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz joined the game
+[20Dec2024 20:41:35.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3389ms or 67 ticks behind
+[20Dec2024 20:41:52.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2264ms or 45 ticks behind
+[20Dec2024 20:42:18.262] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.205.121.217:53807] logged in with entity id 5410 at (-2133.824968804727, 86.0, 1906.549017969913)
+[20Dec2024 20:42:18.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[20Dec2024 20:42:47.333] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz lost connection: Timed out
+[20Dec2024 20:42:47.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz left the game
+[20Dec2024 20:42:59.619] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Capybara_Zzz[/127.89.56.177:44399] logged in with entity id 5641 at (-1182.0091299812952, 122.5, 2577.1614298596787)
+[20Dec2024 20:42:59.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz joined the game
+[20Dec2024 20:43:01.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2405ms or 48 ticks behind
+[20Dec2024 20:43:21.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4946ms or 98 ticks behind
+[20Dec2024 20:44:32.040] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: st_Div[/127.30.75.117:56425] logged in with entity id 6291 at (-2100.7407414789755, 86.0, 1896.7582992715213)
+[20Dec2024 20:44:32.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div joined the game
+[20Dec2024 20:47:21.917] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Grumm'/6249, l='ServerLevel[world]', x=-1170.70, y=113.10, z=2577.70] died: Grumm was slain by Capybara_Zzz
+[20Dec2024 20:48:13.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> a
+[20Dec2024 20:48:19.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <drewfm236> e
+[20Dec2024 20:48:24.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> i
+[20Dec2024 20:48:29.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> o
