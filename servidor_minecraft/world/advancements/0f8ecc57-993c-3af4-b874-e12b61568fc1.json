@@ -834,5 +834,11 @@
     },
     "done": true
   },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2024-12-20 00:23:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
