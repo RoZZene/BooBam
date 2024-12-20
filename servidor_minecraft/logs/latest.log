@@ -805,3 +805,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 16:11:52.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close<--[HERE]
 [20Dec2024 16:12:00.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [20Dec2024 16:12:00.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: finish<--[HERE]
+[20Dec2024 17:15:51.242] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Roxanne711[/127.130.171.145:53853] logged in with entity id 8643 at (-2102.4158439141543, 84.0, 1928.8019502951665)
+[20Dec2024 17:15:51.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 joined the game
