@@ -185,6 +185,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2024-12-18 00:57:09 +0000",
+      "minecraft:pillager": "2024-12-20 15:40:36 +0000",
       "minecraft:skeleton": "2024-12-17 21:18:00 +0000",
       "minecraft:magma_cube": "2024-12-18 01:02:29 +0000",
       "minecraft:spider": "2024-12-17 19:42:55 +0000",
@@ -559,6 +560,12 @@
   "twilightforest:hill3": {
     "criteria": {
       "redcap": "2024-12-20 00:08:50 +0000"
+    },
+    "done": true
+  },
+  "quark:throw_pickarang": {
+    "criteria": {
+      "throw_pickarang": "2024-12-20 15:39:15 +0000"
     },
     "done": true
   },

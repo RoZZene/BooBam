@@ -794,3 +794,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 15:36:49.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2080, y=87, z=1837} BlockPos{x=-2081, y=87, z=1837}
 [20Dec2024 15:36:50.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2080, y=87, z=1837} BlockPos{x=-2081, y=87, z=1837}
 [20Dec2024 15:39:15.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 has made the advancement [Somehow, Pickarang Returned]
+[20Dec2024 15:45:02.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Set own game mode to Creative Mode]
+[20Dec2024 15:45:17.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Set own game mode to Survival Mode]
