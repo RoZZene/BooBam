@@ -797,3 +797,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 15:45:02.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Set own game mode to Creative Mode]
 [20Dec2024 15:45:17.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Set own game mode to Survival Mode]
 [20Dec2024 16:10:09.909] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8467, l='ServerLevel[world]', x=-2037.89, y=-256.00, z=1885.38] died, message: 'Villager was killed'
+[20Dec2024 16:11:40.389] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roxanne711 lost connection: Disconnected
+[20Dec2024 16:11:40.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 left the game
+[20Dec2024 16:11:43.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[20Dec2024 16:11:43.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FO<--[HERE]
+[20Dec2024 16:11:52.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[20Dec2024 16:11:52.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close<--[HERE]
+[20Dec2024 16:12:00.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[20Dec2024 16:12:00.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: finish<--[HERE]

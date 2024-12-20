@@ -8554,3 +8554,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 16:10:07.421] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [20Dec2024 16:10:09.909] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8467, l='ServerLevel[world]', x=-2037.89, y=-256.00, z=1885.38] died, message: 'Villager was killed'
 [20Dec2024 16:10:13.219] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 16:11:40.389] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roxanne711 lost connection: Disconnected
+[20Dec2024 16:11:40.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 left the game
+[20Dec2024 16:11:43.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[20Dec2024 16:11:43.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FO<--[HERE]
+[20Dec2024 16:11:52.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[20Dec2024 16:11:52.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close<--[HERE]
+[20Dec2024 16:12:00.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[20Dec2024 16:12:00.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: finish<--[HERE]
+[20Dec2024 16:12:33.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 16:12:33.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 16:17:33.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 16:17:33.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
