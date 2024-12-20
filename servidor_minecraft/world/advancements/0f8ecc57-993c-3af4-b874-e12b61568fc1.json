@@ -53,6 +53,7 @@
       "minecraft:stony_shore": "2024-12-17 02:18:10 +0000",
       "minecraft:forest": "2024-12-17 01:33:15 +0000",
       "minecraft:ocean": "2024-12-17 02:25:15 +0000",
+      "minecraft:jungle": "2024-12-20 01:06:38 +0000",
       "minecraft:deep_dark": "2024-12-17 03:06:46 +0000",
       "minecraft:savanna": "2024-12-17 02:47:49 +0000",
       "minecraft:plains": "2024-12-17 20:11:36 +0000"
@@ -120,6 +121,7 @@
       "minecraft:slime": "2024-12-18 01:45:48 +0000",
       "quark:forgotten": "2024-12-17 20:29:59 +0000",
       "minecraft:phantom": "2024-12-18 01:59:01 +0000",
+      "minecraft:zombified_piglin": "2024-12-20 01:21:52 +0000",
       "minecraft:witch": "2024-12-17 21:20:26 +0000",
       "minecraft:wither_skeleton": "2024-12-19 03:54:00 +0000",
       "minecraft:cave_spider": "2024-12-17 20:31:07 +0000",
@@ -238,6 +240,7 @@
     "criteria": {
       "creeper_head": "2024-12-17 02:29:19 +0000",
       "enderman_head": "2024-12-18 17:02:51 +0000",
+      "zombified_piglin_head": "2024-12-20 01:25:59 +0000",
       "zombie_head": "2024-12-17 02:29:29 +0000",
       "wither_skeleton_skull": "2024-12-19 03:54:02 +0000",
       "skeleton_skull": "2024-12-17 02:29:15 +0000",
@@ -834,72 +837,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-20 00:51:01 +0000"
-    },
-    "done": false
-  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2024-12-20 00:23:28 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-20 00:51:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-20 00:51:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-20 00:51:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-20 00:51:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-12-20 00:51:53 +0000",
-      "log_spam_fixer": "2024-12-20 00:51:01 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-20 00:51:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-20 00:51:01 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:iceandfire/kill_ghost": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-20 00:44:56 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-20 00:51:01 +0000"
-    },
-    "done": false
   },
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
@@ -907,23 +849,47 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
-      "log_spam_fixer": "2024-12-20 00:51:01 +0000"
+      "killed_fire_dragon": "2024-12-20 00:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-12-20 01:39:19 +0000"
     },
     "done": false
   },
-  "incendium:technical/give_ghastling": {
+  "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
-      "log_spam_fixer": "2024-12-20 00:51:01 +0000"
+      "tool": "2024-12-20 01:36:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
-      "log_spam_fixer": "2024-12-20 00:51:01 +0000"
+      "sword": "2024-12-20 01:36:48 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-20 01:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_fortress": "2024-12-20 01:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-20 01:39:19 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
