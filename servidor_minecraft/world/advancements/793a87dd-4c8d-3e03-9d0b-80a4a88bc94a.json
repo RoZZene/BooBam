@@ -180,6 +180,7 @@
       "cooked_beef": "2024-12-17 03:38:18 +0000",
       "baked_potato": "2024-12-17 20:58:36 +0000",
       "cooked_cod": "2024-12-19 23:08:00 +0000",
+      "pumpkin_pie": "2024-12-20 00:46:07 +0000",
       "golden_apple": "2024-12-17 02:27:38 +0000",
       "bread": "2024-12-17 21:18:09 +0000",
       "melon_slice": "2024-12-17 05:13:42 +0000",
@@ -588,6 +589,79 @@
       "redcap": "2024-12-19 23:09:29 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 00:51:00 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 00:51:00 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 00:51:00 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 00:51:00 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 00:51:00 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-20 00:51:23 +0000",
+      "log_spam_fixer": "2024-12-20 00:51:00 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 00:51:00 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 00:51:00 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 00:51:00 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 00:51:00 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 00:51:00 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 00:51:00 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

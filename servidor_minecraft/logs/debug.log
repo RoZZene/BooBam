@@ -14848,3 +14848,133 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 00:48:16.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> dale
 [20Dec2024 00:48:17.014] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [20Dec2024 00:48:20.010] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 00:48:30.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz moved too quickly! 9.989363562569451,-1.1661092609382138,0.034170860263202485
+[20Dec2024 00:48:30.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! 6.07760324215451,-5.0,-6.370856807275231
+[20Dec2024 00:48:36.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 37673ms or 753 ticks behind
+[20Dec2024 00:48:43.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! 8.848819667246516,0.5870907195829886,-4.803433504677514
+[20Dec2024 00:48:43.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz moved too quickly! 9.809346664967961,-1.5727162026004038,2.0236341577583516
+[20Dec2024 00:48:53.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> cierralo y hazle backup y yo te digo cuando lo habras
+[20Dec2024 00:49:02.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> abras
+[20Dec2024 00:49:02.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> vasie
+[20Dec2024 00:49:16.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> XD
+[20Dec2024 00:49:17.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> voy a perder todo lo q farmee de dragones..
+[20Dec2024 00:49:24.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> vasie
+[20Dec2024 00:49:31.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 40314ms or 806 ticks behind
+[20Dec2024 00:49:33.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> no c va a perder c guarda
+[20Dec2024 00:49:45.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> claero voy hacer backup
+[20Dec2024 00:49:48.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> espero pq perdi 5 stacks de flechas en el ultimo cierre xd
+[20Dec2024 00:49:54.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> vas a tener tus testiculos de dragon donde estaban
+[20Dec2024 00:50:01.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> XDDDDDDDDDDDDDDDDDD
+[20Dec2024 00:50:03.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> er diablo
+[20Dec2024 00:50:03.522] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/37021, l='ServerLevel[world]', x=-846.60, y=9.20, z=3567.63], dimensionLocationPath overworld
+[20Dec2024 00:50:03.522] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/37021, l='ServerLevel[world]', x=-846.60, y=9.20, z=3567.63] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@372, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@373, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@374, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@376, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@378, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@379, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37a]
+[20Dec2024 00:50:08.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> peren no cierren
+[20Dec2024 00:50:10.170] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Redstone Torch'/37021, l='ServerLevel[world]', x=-846.62, y=9.40, z=3567.72]
+[20Dec2024 00:50:13.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz moved too quickly! 8.661212760004219,-5.121296840539202,-0.8249286503028088
+[20Dec2024 00:50:14.610] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera lost connection: Disconnected
+[20Dec2024 00:50:14.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera left the game
+[20Dec2024 00:50:15.503] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 00:50:16.363] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 00:50:18.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31550ms or 631 ticks behind
+[20Dec2024 00:50:24.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> miren eldc XD
+[20Dec2024 00:50:27.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: st_Div moved too quickly! 1.359648490215477,0.41999998688697815,-10.147471262647741
+[20Dec2024 00:50:30.105] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 00:50:30.180] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 00:50:30.407] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 00:50:30.524] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 00:50:30.680] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 00:50:30.830] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 00:50:30.907] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 00:50:31.131] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 00:50:31.277] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 00:50:31.388] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 00:50:31.539] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 00:50:31.737] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 00:50:32.354] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/37021, l='ServerLevel[world]', x=-846.69, y=10.34, z=3568.13], dimensionLocationPath overworld
+[20Dec2024 00:50:32.354] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/37021, l='ServerLevel[world]', x=-846.69, y=10.34, z=3568.13] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@372, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@373, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@374, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@376, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@378, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@379, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37a]
+[20Dec2024 00:50:33.063] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Redstone Torch'/37021, l='ServerLevel[world]', x=-846.76, y=10.65, z=3568.49]
+[20Dec2024 00:50:38.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> LOCOOO
+[20Dec2024 00:50:44.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> ya cierren kkk
+[20Dec2024 00:50:48.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> donde esta el portal
+[20Dec2024 00:50:49.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16137ms or 322 ticks behind
+[20Dec2024 00:50:54.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17392, y=6, z=15326} BlockPos{x=-17393, y=7, z=15329}
+[20Dec2024 00:50:55.795] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/37317, l='ServerLevel[world]', x=-736.26, y=45.61, z=3327.56], dimensionLocationPath overworld
+[20Dec2024 00:50:55.796] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/37317, l='ServerLevel[world]', x=-736.26, y=45.61, z=3327.56] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@372, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@373, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@374, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@376, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@378, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@379, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37a]
+[20Dec2024 00:51:00.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> epa
+[20Dec2024 00:51:05.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> mejoro de repente
+[20Dec2024 00:51:15.883] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/37401, l='ServerLevel[world]', x=-782.27, y=8.20, z=3647.60], dimensionLocationPath overworld
+[20Dec2024 00:51:15.884] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/37401, l='ServerLevel[world]', x=-782.27, y=8.20, z=3647.60] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@372, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@373, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@374, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@376, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@378, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@379, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37a, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@91c5]
+[20Dec2024 00:51:20.337] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16097ms or 321 ticks behind
+[20Dec2024 00:51:23.225] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 00:51:28.661] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone Dust'/30039, l='ServerLevel[world]', x=-17469.24, y=-6.00, z=15395.57, removed=DISCARDED]
+[20Dec2024 00:51:29.693] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 00:51:35.775] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone Dust'/30213, l='ServerLevel[world]', x=-17470.14, y=-6.00, z=15394.72, removed=DISCARDED]
+[20Dec2024 00:51:39.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4537ms or 90 ticks behind
+[20Dec2024 00:51:40.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> como se hacia el backup?
+[20Dec2024 00:51:44.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> gracias duxa
+[20Dec2024 00:51:47.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> salvo el server
+[20Dec2024 00:51:54.548] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 00:51:55.532] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Redstone Torch'/37317, l='ServerLevel[world]', x=-735.89, y=45.73, z=3326.93]
+[20Dec2024 00:51:57.102] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 00:52:04.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9459ms or 189 ticks behind
+[20Dec2024 00:52:04.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> te va a darla opcion cuando lo cierres
+[20Dec2024 00:52:09.791] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roxanne711 lost connection: Disconnected
+[20Dec2024 00:52:09.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 left the game
+[20Dec2024 00:52:09.978] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: st_Div lost connection: Disconnected
+[20Dec2024 00:52:09.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div left the game
+[20Dec2024 00:52:10.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz lost connection: Disconnected
+[20Dec2024 00:52:10.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz left the game
+[20Dec2024 00:52:10.256] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[20Dec2024 00:52:10.261] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[20Dec2024 00:52:10.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Dec2024 00:52:10.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Dec2024 00:52:10.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Dec2024 00:52:20.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Dec2024 00:52:22.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Dec2024 00:52:22.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[20Dec2024 00:52:22.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[20Dec2024 00:52:22.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Dec2024 00:52:22.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 00:52:22.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 00:52:22.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Dec2024 00:52:22.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Dec2024 00:52:22.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[20Dec2024 00:52:22.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[20Dec2024 00:52:22.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Dec2024 00:52:22.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20Dec2024 00:52:22.438] [Server thread/INFO] [Framework/]: Unloading server configs...
+[20Dec2024 00:52:22.441] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/BooBam/servidor_minecraft/config/refurbished_furniture.server.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23206!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23206!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23206!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23206!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23206!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.lambda$forEachRemaining$1(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.forEachRemaining(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23206!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23206!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23206!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23206!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23206!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.7-universal.jar%23260!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23255!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23255!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20Dec2024 00:52:22.446] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[20Dec2024 00:52:22.454] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[20Dec2024 00:52:22.454] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

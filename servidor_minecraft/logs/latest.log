@@ -183,3 +183,65 @@
 [20Dec2024 00:48:09.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> y si reiniciamos el serbver
 [20Dec2024 00:48:14.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz moved too quickly! 7.286360295067652,0.2046003784434305,7.158145598796182
 [20Dec2024 00:48:16.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> dale
+[20Dec2024 00:48:30.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz moved too quickly! 9.989363562569451,-1.1661092609382138,0.034170860263202485
+[20Dec2024 00:48:30.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! 6.07760324215451,-5.0,-6.370856807275231
+[20Dec2024 00:48:36.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 37673ms or 753 ticks behind
+[20Dec2024 00:48:43.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! 8.848819667246516,0.5870907195829886,-4.803433504677514
+[20Dec2024 00:48:43.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz moved too quickly! 9.809346664967961,-1.5727162026004038,2.0236341577583516
+[20Dec2024 00:48:53.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> cierralo y hazle backup y yo te digo cuando lo habras
+[20Dec2024 00:49:02.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> abras
+[20Dec2024 00:49:02.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> vasie
+[20Dec2024 00:49:16.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> XD
+[20Dec2024 00:49:17.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> voy a perder todo lo q farmee de dragones..
+[20Dec2024 00:49:24.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> vasie
+[20Dec2024 00:49:31.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 40314ms or 806 ticks behind
+[20Dec2024 00:49:33.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> no c va a perder c guarda
+[20Dec2024 00:49:45.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> claero voy hacer backup
+[20Dec2024 00:49:48.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> espero pq perdi 5 stacks de flechas en el ultimo cierre xd
+[20Dec2024 00:49:54.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> vas a tener tus testiculos de dragon donde estaban
+[20Dec2024 00:50:01.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> XDDDDDDDDDDDDDDDDDD
+[20Dec2024 00:50:03.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> er diablo
+[20Dec2024 00:50:08.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> peren no cierren
+[20Dec2024 00:50:13.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz moved too quickly! 8.661212760004219,-5.121296840539202,-0.8249286503028088
+[20Dec2024 00:50:14.610] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera lost connection: Disconnected
+[20Dec2024 00:50:14.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera left the game
+[20Dec2024 00:50:18.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 31550ms or 631 ticks behind
+[20Dec2024 00:50:24.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> miren eldc XD
+[20Dec2024 00:50:27.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: st_Div moved too quickly! 1.359648490215477,0.41999998688697815,-10.147471262647741
+[20Dec2024 00:50:38.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> LOCOOO
+[20Dec2024 00:50:44.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> ya cierren kkk
+[20Dec2024 00:50:48.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> donde esta el portal
+[20Dec2024 00:50:49.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16137ms or 322 ticks behind
+[20Dec2024 00:50:54.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17392, y=6, z=15326} BlockPos{x=-17393, y=7, z=15329}
+[20Dec2024 00:51:00.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> epa
+[20Dec2024 00:51:05.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> mejoro de repente
+[20Dec2024 00:51:20.337] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16097ms or 321 ticks behind
+[20Dec2024 00:51:39.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4537ms or 90 ticks behind
+[20Dec2024 00:51:40.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> como se hacia el backup?
+[20Dec2024 00:51:44.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> gracias duxa
+[20Dec2024 00:51:47.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> salvo el server
+[20Dec2024 00:52:04.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9459ms or 189 ticks behind
+[20Dec2024 00:52:04.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> te va a darla opcion cuando lo cierres
+[20Dec2024 00:52:09.791] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roxanne711 lost connection: Disconnected
+[20Dec2024 00:52:09.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 left the game
+[20Dec2024 00:52:09.978] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: st_Div lost connection: Disconnected
+[20Dec2024 00:52:09.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div left the game
+[20Dec2024 00:52:10.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz lost connection: Disconnected
+[20Dec2024 00:52:10.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz left the game
+[20Dec2024 00:52:10.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Dec2024 00:52:10.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Dec2024 00:52:10.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Dec2024 00:52:20.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Dec2024 00:52:22.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Dec2024 00:52:22.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[20Dec2024 00:52:22.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[20Dec2024 00:52:22.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Dec2024 00:52:22.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Dec2024 00:52:22.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Dec2024 00:52:22.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[20Dec2024 00:52:22.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[20Dec2024 00:52:22.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Dec2024 00:52:22.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20Dec2024 00:52:22.438] [Server thread/INFO] [Framework/]: Unloading server configs...
+[20Dec2024 00:52:22.446] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[20Dec2024 00:52:22.454] [Server thread/INFO] [Framework/]: Finished unloading server configs
