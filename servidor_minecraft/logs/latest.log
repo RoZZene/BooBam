@@ -796,3 +796,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 15:39:15.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 has made the advancement [Somehow, Pickarang Returned]
 [20Dec2024 15:45:02.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Set own game mode to Creative Mode]
 [20Dec2024 15:45:17.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Set own game mode to Survival Mode]
+[20Dec2024 16:10:09.909] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8467, l='ServerLevel[world]', x=-2037.89, y=-256.00, z=1885.38] died, message: 'Villager was killed'
