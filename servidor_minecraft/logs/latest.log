@@ -746,3 +746,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 20:58:49.123] [Thread-96/WARN] [SkinRestorer/]: Failed to fetch skin: not found
 [20Dec2024 20:58:49.159] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Duxaethera[/127.76.157.201:43869] logged in with entity id 11908 at (-2048.199800487816, 97.16610926093821, 1897.4820095541643)
 [20Dec2024 20:58:49.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera joined the game
+[20Dec2024 21:03:24.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> ZZZZZZZZZZZZZZZZZZZZZZ
+[20Dec2024 21:03:34.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <drewfm236> zzzzzzzzzzzz
+[20Dec2024 21:03:35.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> zzz
+[20Dec2024 21:03:42.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> ZZZZZZZZZZZZZZZZZZZZ
+[20Dec2024 21:03:44.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> ZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[20Dec2024 21:03:45.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> zzzzzz
+[20Dec2024 21:05:44.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> dux
+[20Dec2024 21:05:51.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> dime
+[20Dec2024 21:06:00.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> vamos a otra mega mina
+[20Dec2024 21:06:14.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> crafteate martillos de hierro
+[20Dec2024 21:06:22.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> pa andres y pa mi
+[20Dec2024 21:06:27.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> tengo dos
+[20Dec2024 21:06:33.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> traeme solo a mi
+[20Dec2024 21:06:40.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> y trae uno tu
+[20Dec2024 21:06:50.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> y vacia el inventario
+[20Dec2024 21:06:54.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> solo comida
+[20Dec2024 21:10:28.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[20Dec2024 21:10:50.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7221ms or 144 ticks behind
+[20Dec2024 21:11:08.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3228ms or 64 ticks behind
+[20Dec2024 21:11:26.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[20Dec2024 21:11:44.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3275ms or 65 ticks behind
+[20Dec2024 21:12:02.857] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3049ms or 60 ticks behind
