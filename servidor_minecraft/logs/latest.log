@@ -739,3 +739,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 20:48:19.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <drewfm236> e
 [20Dec2024 20:48:24.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> i
 [20Dec2024 20:48:29.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> o
+[20Dec2024 20:51:36.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[20Dec2024 20:57:12.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera was kicked for floating too long!
+[20Dec2024 20:57:12.371] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera lost connection: Flying is not enabled on this server
+[20Dec2024 20:57:12.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera left the game
+[20Dec2024 20:58:49.123] [Thread-96/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[20Dec2024 20:58:49.159] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Duxaethera[/127.76.157.201:43869] logged in with entity id 11908 at (-2048.199800487816, 97.16610926093821, 1897.4820095541643)
+[20Dec2024 20:58:49.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera joined the game
