@@ -478,6 +478,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2024-12-20 00:07:56 +0000"
+    },
+    "done": true
+  },
   "twilightforest:hill3": {
     "criteria": {
       "redcap": "2024-12-19 23:57:25 +0000"
