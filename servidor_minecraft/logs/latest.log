@@ -818,3 +818,30 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 21:32:00.454] [Server thread/WARN] [tombstone/]: The death event of the player st_Div was canceled by another mod
 [20Dec2024 21:32:00.487] [Server thread/INFO] [tombstone/]: The player st_Div has successfully been saved
 [20Dec2024 21:32:22.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> ayydaaaa
+[20Dec2024 21:32:47.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[20Dec2024 21:33:08.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6072ms or 121 ticks behind
+[20Dec2024 21:33:38.638] [Server thread/WARN] [tombstone/]: The death event of the player Duxaethera was canceled by another mod
+[20Dec2024 21:33:38.670] [Server thread/INFO] [tombstone/]: The player Duxaethera has successfully been saved
+[20Dec2024 21:35:22.340] [Server thread/WARN] [tombstone/]: The death event of the player st_Div was canceled by another mod
+[20Dec2024 21:35:22.355] [Server thread/INFO] [tombstone/]: The player st_Div has successfully been saved
+[20Dec2024 21:35:30.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <drewfm236> tengo la salida
+[20Dec2024 21:35:39.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> help
+[20Dec2024 21:35:53.736] [Server thread/WARN] [tombstone/]: The death event of the player Duxaethera was canceled by another mod
+[20Dec2024 21:35:53.744] [Server thread/INFO] [tombstone/]: The player Duxaethera has successfully been saved
+[20Dec2024 21:36:00.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> aaaaaaaaaaaaaaaaaaaaaa
+[20Dec2024 21:36:09.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div was skewered by Block and Chain Goblin
+[20Dec2024 21:36:13.968] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[20Dec2024 21:36:33.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4285ms or 85 ticks behind
+[20Dec2024 21:36:58.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <drewfm236> vamonos
+[20Dec2024 21:37:25.278] [Server thread/WARN] [tombstone/]: The death event of the player st_Div was canceled by another mod
+[20Dec2024 21:37:25.317] [Server thread/INFO] [tombstone/]: The player st_Div has successfully been saved
+[20Dec2024 21:38:01.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <drewfm236> llegate duxa
+[20Dec2024 21:38:17.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> estoy afuera del sitio
+[20Dec2024 21:40:14.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[20Dec2024 21:40:42.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> div toma
+[20Dec2024 21:41:01.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div has made the advancement [Amateur Archaeologist]
+[20Dec2024 21:42:07.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[20Dec2024 21:42:24.676] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2219ms or 44 ticks behind
+[20Dec2024 21:42:41.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2320ms or 46 ticks behind
+[20Dec2024 21:43:02.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20Dec2024 21:43:07.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <drewfm236> aca hay otra
