@@ -469,12 +469,14 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_planks": "2024-12-20 23:45:06 +0000",
       "twilight_oak_door": "2024-12-20 03:18:34 +0000",
       "twilight_oak_stairs": "2024-12-20 03:18:34 +0000",
       "darkwood_sapling": "2024-12-20 23:34:40 +0000",
       "canopy_sapling": "2024-12-20 18:09:17 +0000",
       "twilight_oak_log": "2024-12-19 02:14:52 +0000",
       "twilight_oak_wood": "2024-12-20 18:09:01 +0000",
+      "twilight_oak_sapling": "2024-12-20 23:35:51 +0000",
       "canopy_log": "2024-12-20 18:09:13 +0000"
     },
     "done": false
