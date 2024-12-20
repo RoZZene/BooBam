@@ -148,7 +148,8 @@
       "bread": "2024-12-17 19:51:21 +0000",
       "rotten_flesh": "2024-12-17 19:45:54 +0000",
       "melon_slice": "2024-12-17 21:23:35 +0000",
-      "cooked_chicken": "2024-12-20 04:20:53 +0000"
+      "cooked_chicken": "2024-12-20 04:20:53 +0000",
+      "cod": "2024-12-20 17:31:50 +0000"
     },
     "done": false
   },
@@ -566,6 +567,12 @@
   "quark:throw_pickarang": {
     "criteria": {
       "throw_pickarang": "2024-12-20 15:39:15 +0000"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2024-12-20 17:34:30 +0000"
     },
     "done": true
   },
