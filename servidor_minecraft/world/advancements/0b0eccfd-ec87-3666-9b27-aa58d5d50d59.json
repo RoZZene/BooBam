@@ -200,6 +200,7 @@
       "quark:forgotten": "2024-12-17 04:22:10 +0000",
       "minecraft:wither_skeleton": "2024-12-19 22:11:41 +0000",
       "minecraft:cave_spider": "2024-12-19 22:57:30 +0000",
+      "minecraft:enderman": "2024-12-20 21:24:19 +0000",
       "minecraft:zombie": "2024-12-17 03:54:04 +0000"
     },
     "done": false
@@ -520,6 +521,12 @@
   "twilightforest:hill3": {
     "criteria": {
       "redcap": "2024-12-19 23:09:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2024-12-20 21:27:59 +0000"
     },
     "done": true
   },
