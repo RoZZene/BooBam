@@ -845,3 +845,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 21:42:41.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2320ms or 46 ticks behind
 [20Dec2024 21:43:02.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [20Dec2024 21:43:07.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <drewfm236> aca hay otra
+[20Dec2024 21:43:25.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[20Dec2024 21:43:46.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6010ms or 120 ticks behind
+[20Dec2024 21:44:05.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div has made the advancement [The Boots Are Mine!]
+[20Dec2024 21:44:54.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[20Dec2024 21:45:11.816] [Server thread/WARN] [tombstone/]: The death event of the player st_Div was canceled by another mod
+[20Dec2024 21:45:11.848] [Server thread/INFO] [tombstone/]: The player st_Div has successfully been saved
+[20Dec2024 21:45:59.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has made the advancement [The Boots Are Mine!]
+[20Dec2024 21:46:02.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <drewfm236> mano donde consigon un hacha de esas jajajajja
+[20Dec2024 21:46:48.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> un boss la suelta y tambien un casco
+[20Dec2024 21:47:35.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> pero lo encontro el rozen por ahi y pues se encuentra en las cuevas
+[20Dec2024 21:47:53.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> como una mini zona de pelea esta el boss
+[20Dec2024 21:48:05.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> pero bajo tierra
+[20Dec2024 21:49:33.562] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Grumm'/63193, l='ServerLevel[world]', x=-17660.30, y=-3.90, z=15367.70] died: Grumm was slain by Duxaethera
+[20Dec2024 21:51:38.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz lost connection: Timed out
+[20Dec2024 21:51:38.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz left the game
+[20Dec2024 21:51:41.222] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Capybara_Zzz[/127.255.57.125:58575] logged in with entity id 74735 at (-1174.8511967659504, 111.0, 2591.621461356479)
+[20Dec2024 21:51:41.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz joined the game
+[20Dec2024 21:51:43.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[20Dec2024 21:52:41.876] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[20Dec2024 21:52:56.346] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz lost connection: Timed out
+[20Dec2024 21:52:56.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz left the game
+[20Dec2024 21:53:10.174] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Capybara_Zzz[/127.89.56.177:53811] logged in with entity id 76284 at (-1213.6985613459774, 120.16610926093821, 2571.203115758313)
+[20Dec2024 21:53:10.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz joined the game
+[20Dec2024 21:53:13.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
