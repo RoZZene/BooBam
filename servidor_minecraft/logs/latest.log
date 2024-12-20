@@ -115,3 +115,71 @@
 [20Dec2024 00:37:01.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26508ms or 530 ticks behind
 [20Dec2024 00:37:19.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz moved too quickly! 3.170955923371821,-1.3693736602695026,-9.445007673527925
 [20Dec2024 00:37:30.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! 1.5006142975762486,0.4952008770059111,-9.949515184745906
+[20Dec2024 00:37:53.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36598ms or 731 ticks behind
+[20Dec2024 00:38:15.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! -1.0781076486309757,-2.465495354067592,9.804764287131547
+[20Dec2024 00:38:42.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 34656ms or 693 ticks behind
+[20Dec2024 00:39:06.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: st_Div moved too quickly! -8.042774104342243,0.0,6.230511547479182
+[20Dec2024 00:39:20.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22441ms or 448 ticks behind
+[20Dec2024 00:39:23.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz moved too quickly! -7.977347782508559,0.380023674395531,-6.442288813286723
+[20Dec2024 00:39:32.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz moved too quickly! -0.7265040969307393,1.1036092609382138,10.249609315781527
+[20Dec2024 00:39:32.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> desmuteate che
+[20Dec2024 00:40:02.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27709ms or 554 ticks behind
+[20Dec2024 00:40:05.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! 1.854921091144206,0.7967356006686916,-9.991466671906892
+[20Dec2024 00:40:10.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! 0.4223918698298803,0.4990033597325221,-10.052779115356316
+[20Dec2024 00:40:41.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz moved too quickly! 1.56578271322428,-0.5233646692954181,-10.065332669364125
+[20Dec2024 00:40:46.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28998ms or 579 ticks behind
+[20Dec2024 00:41:12.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz moved too quickly! 9.561823108996805,2.176759275064242,-2.903153662072782
+[20Dec2024 00:41:22.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: st_Div moved too quickly! 9.227386570899398,1.001335979112147,4.372819174202959
+[20Dec2024 00:41:28.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26680ms or 533 ticks behind
+[20Dec2024 00:41:30.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz moved too quickly! 5.916834342245238,-2.249187078744683,8.045001468027749
+[20Dec2024 00:41:30.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! 0.5163441720360424,0.2522033402537236,10.05513535362843
+[20Dec2024 00:41:46.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roxanne711 moved too quickly! 5.130208741473325,0.8322033533667454,8.797159473155261
+[20Dec2024 00:42:10.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25455ms or 509 ticks behind
+[20Dec2024 00:42:10.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Teleported Roxanne711 to st_Div]
+[20Dec2024 00:42:10.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Dragonslayer]
+[20Dec2024 00:42:17.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> q dolor de cabeza ptm
+[20Dec2024 00:42:20.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! 0.48327710533703794,2.0244240882136797,9.993220655824189
+[20Dec2024 00:42:26.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! -8.235285389564524,0.0,5.860279884287593
+[20Dec2024 00:42:36.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! -0.27002539937529946,-0.5016000115871426,-10.279913872103862
+[20Dec2024 00:42:41.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! -2.0639588039302907,0.24680001947879848,-10.044910760454513
+[20Dec2024 00:42:52.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28679ms or 573 ticks behind
+[20Dec2024 00:42:57.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> salgamos de aca
+[20Dec2024 00:43:03.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> laguea terriblemente el sv
+[20Dec2024 00:43:07.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz moved too quickly! 5.882552400488521,0.7420008964847256,8.25874451927939
+[20Dec2024 00:43:17.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz moved too quickly! 8.87844260546899,1.4199999868869781,4.671164039464202
+[20Dec2024 00:43:22.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz moved too quickly! -4.893199977320137,-1.376735613781733,9.177153208504933
+[20Dec2024 00:43:32.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24504ms or 490 ticks behind
+[20Dec2024 00:43:43.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! 0.45214160170507967,-1.0,10.135767505860713
+[20Dec2024 00:43:47.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> estoyen una llamada
+[20Dec2024 00:43:55.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! -0.7816299660298682,1.0013359791121474,-10.098701052420438
+[20Dec2024 00:44:11.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24237ms or 484 ticks behind
+[20Dec2024 00:44:25.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! 5.4918730007048,-1.0754440651894868,8.457044904273062
+[20Dec2024 00:44:30.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! 3.6485345749606495,1.0,9.447000392208793
+[20Dec2024 00:44:35.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! 2.8242552565861843,0.6984652763372194,9.6333577906571
+[20Dec2024 00:44:39.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! 1.467999721680826,0.25799910351529043,10.22363265246895
+[20Dec2024 00:44:54.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28515ms or 570 ticks behind
+[20Dec2024 00:44:56.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Who You Gonna Call?]
+[20Dec2024 00:45:09.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! 3.542631907166651,0.0,9.479933379463546
+[20Dec2024 00:45:14.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! 2.744740039543103,1.0448124203990243,9.881063796932722
+[20Dec2024 00:45:18.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! 2.486184738467273,0.8787031594608106,9.896981717671224
+[20Dec2024 00:45:31.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21183ms or 423 ticks behind
+[20Dec2024 00:46:04.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18771ms or 375 ticks behind
+[20Dec2024 00:46:26.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! 15197.471951491243,95.07840000152588,-13720.963659682779
+[20Dec2024 00:46:28.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> ya tengo to
+[20Dec2024 00:46:30.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> vamono
+[20Dec2024 00:46:42.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22800ms or 456 ticks behind
+[20Dec2024 00:47:07.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! -15194.441897404658,-94.67647087614428,13720.58644229351
+[20Dec2024 00:47:22.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: st_Div moved too quickly! -0.42695571602962445,-5.0,8.70779580501403
+[20Dec2024 00:47:23.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! 15197.147993060855,95.32352912385574,-13720.826784906412
+[20Dec2024 00:47:30.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: st_Div moved too quickly! -0.814546971450909,0.0,-10.006170822152853
+[20Dec2024 00:47:33.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roxanne711 moved too quickly! 0.07770142602021224,0.054893347032071826,-10.182744960504351
+[20Dec2024 00:47:42.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> t sigo
+[20Dec2024 00:47:43.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 46146ms or 922 ticks behind
+[20Dec2024 00:47:50.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: st_Div moved too quickly! 1.9854950265143998,0.7967356006686916,9.841956618876793
+[20Dec2024 00:47:50.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roxanne711 moved too quickly! 6.07300689017211,-1.1767592750642368,7.966206430013699
+[20Dec2024 00:47:50.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz moved too quickly! 0.915890862032029,1.2491870787446828,9.928733735943752
+[20Dec2024 00:47:55.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: st_Div moved too quickly! 6.56286451248161,-1.0,7.839884294091462
+[20Dec2024 00:48:03.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz moved too quickly! -0.8795588538202992,-1.0244240882136921,10.01769674794923
+[20Dec2024 00:48:09.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> y si reiniciamos el serbver
+[20Dec2024 00:48:14.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz moved too quickly! 7.286360295067652,0.2046003784434305,7.158145598796182
+[20Dec2024 00:48:16.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> dale

@@ -840,5 +840,11 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-20 00:42:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
