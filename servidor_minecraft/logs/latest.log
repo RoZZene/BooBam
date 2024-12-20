@@ -704,3 +704,32 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 19:42:58.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5211ms or 104 ticks behind
 [20Dec2024 19:43:18.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
 [20Dec2024 19:43:47.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20Dec2024 19:45:09.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20Dec2024 19:45:27.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3605ms or 72 ticks behind
+[20Dec2024 19:47:05.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz lost connection: Disconnected
+[20Dec2024 19:47:05.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz left the game
+[20Dec2024 19:47:05.609] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Dec2024 19:47:12.732] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Capybara_Zzz[/127.89.56.177:34691] logged in with entity id 3307 at (-1185.3625703292003, 111.0, 2601.699999988079)
+[20Dec2024 19:47:12.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz joined the game
+[20Dec2024 19:47:15.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[20Dec2024 19:48:42.864] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz lost connection: Timed out
+[20Dec2024 19:48:42.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz left the game
+[20Dec2024 19:48:49.604] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Capybara_Zzz[/127.89.56.177:58839] logged in with entity id 3851 at (-1172.3835575839876, 111.0, 2591.2352946392557)
+[20Dec2024 19:48:49.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz joined the game
+[20Dec2024 19:48:54.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[20Dec2024 19:51:50.631] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Roxanne711[/127.130.171.145:56081] logged in with entity id 4887 at (-2101.78292670102, 84.0, 1926.520781143948)
+[20Dec2024 19:51:50.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 joined the game
+[20Dec2024 19:51:59.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[20Dec2024 19:52:57.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Set own game mode to Creative Mode]
+[20Dec2024 19:53:02.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Teleported Roxanne711 to Capybara_Zzz]
+[20Dec2024 19:53:05.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> ?
+[20Dec2024 19:53:18.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> encontre a este jugador en mi servidor de minecraft
+[20Dec2024 19:53:25.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> XDD
+[20Dec2024 19:53:33.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has reached the goal [Fortuitous Militia]
+[20Dec2024 19:53:36.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> XD?
+[20Dec2024 19:54:05.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> soy nob
+[20Dec2024 19:54:07.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Teleported Roxanne711 to Duxaethera]
+[20Dec2024 19:54:22.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Set own game mode to Survival Mode]
+[20Dec2024 19:54:54.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> muy nub, te mataste a un fakin dragon
+[20Dec2024 19:55:02.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> y con lag
+[20Dec2024 19:55:06.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> yo ese
