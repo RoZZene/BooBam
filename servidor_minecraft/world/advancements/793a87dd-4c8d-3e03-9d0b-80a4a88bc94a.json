@@ -599,6 +599,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "cooked_venison": "2024-12-20 22:03:32 +0000"
+    },
+    "done": false
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2024-12-20 21:41:01 +0000"
