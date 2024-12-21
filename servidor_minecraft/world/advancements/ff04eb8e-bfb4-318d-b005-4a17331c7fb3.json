@@ -585,6 +585,12 @@
     },
     "done": true
   },
+  "quark:apply_color_rune": {
+    "criteria": {
+      "rune_blue": "2024-12-21 00:04:24 +0000"
+    },
+    "done": true
+  },
   "paraglider:paraglider": {
     "criteria": {
       "paraglider": "2024-12-20 23:07:09 +0000"
