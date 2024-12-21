@@ -140,3 +140,13 @@
 [21Dec2024 01:36:18.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6999ms or 139 ticks behind
 [21Dec2024 01:37:12.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
 [21Dec2024 01:37:31.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3592ms or 71 ticks behind
+[21Dec2024 01:38:19.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[21Dec2024 01:38:37.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2440ms or 48 ticks behind
+[21Dec2024 01:39:55.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[21Dec2024 01:40:18.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[21Dec2024 01:42:52.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[21Dec2024 01:43:10.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[21Dec2024 01:44:10.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has completed the challenge [Perfect View in the Plains]
+[21Dec2024 01:46:28.028] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Grumm'/60649, l='ServerLevel[world]', x=-1170.95, y=113.10, z=2576.70] died: Grumm was shot by Capybara_Zzz
+[21Dec2024 01:46:31.312] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Grumm'/89721, l='ServerLevel[world]', x=-1192.30, y=113.10, z=2576.70] died: Grumm was shot by Capybara_Zzz
+[21Dec2024 01:46:33.055] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Grumm'/87839, l='ServerLevel[world]', x=-1192.30, y=113.10, z=2576.70] died: Grumm was shot by Capybara_Zzz

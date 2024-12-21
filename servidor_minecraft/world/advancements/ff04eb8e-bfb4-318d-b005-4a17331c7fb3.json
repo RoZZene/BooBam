@@ -49,6 +49,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-21 01:42:14 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-19 01:30:18 +0000",
       "minecraft:taiga": "2024-12-19 01:25:25 +0000",
       "minecraft:bamboo_jungle": "2024-12-19 03:32:18 +0000",
@@ -164,6 +165,7 @@
       "redwood_forest": "2024-12-19 03:03:12 +0000",
       "volcano": "2024-12-19 03:34:25 +0000",
       "volcanic_plains": "2024-12-19 03:33:16 +0000",
+      "lavender_field": "2024-12-21 01:35:37 +0000",
       "fir_clearing": "2024-12-20 00:47:23 +0000",
       "grassland": "2024-12-19 03:32:45 +0000",
       "prairie": "2024-12-19 03:06:00 +0000",
@@ -601,6 +603,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2024-12-21 00:30:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:throwing_knife": {
+    "criteria": {
+      "has_throwing_knife": "2024-12-21 01:33:49 +0000"
     },
     "done": true
   },
