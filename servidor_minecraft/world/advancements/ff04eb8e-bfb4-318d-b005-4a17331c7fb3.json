@@ -623,6 +623,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "jar": "2024-12-21 02:10:36 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2024-12-21 01:51:28 +0000"
