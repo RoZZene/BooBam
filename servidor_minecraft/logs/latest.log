@@ -812,3 +812,142 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [21Dec2024 05:24:36.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind
 [21Dec2024 05:24:45.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Teleported enderg39 to Roxanne711]
 [21Dec2024 05:24:54.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3343ms or 66 ticks behind
+[21Dec2024 05:25:19.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[21Dec2024 05:25:40.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6764ms or 135 ticks behind
+[21Dec2024 05:25:48.639] [Thread-86/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[21Dec2024 05:25:48.791] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Duxaethera[/127.76.157.201:42397] logged in with entity id 12032 at (-1132.9497671163388, 72.0, 3373.793180993929)
+[21Dec2024 05:25:48.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera joined the game
+[21Dec2024 05:25:53.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: enderg39 moved too quickly! 7.093467397020049,1.7531999805212024,-7.17075195461166
+[21Dec2024 05:25:56.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: enderg39 moved too quickly! 9.440112717663396,-0.2712241076924897,3.896332777301268
+[21Dec2024 05:25:59.978] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityElephant['Elephant'/12253, l='ServerLevel[world]', x=-1054.25, y=66.00, z=3506.35]
+[21Dec2024 05:26:03.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: enderg39 moved too quickly! -9.773221949274102,1.2491870787446828,2.9678261919450506
+[21Dec2024 05:26:03.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! -5.726612152710231,0.7967356006687112,-8.333188677720045
+[21Dec2024 05:26:16.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21017ms or 420 ticks behind
+[21Dec2024 05:26:32.635] [Server thread/WARN] [tombstone/]: The death event of the player enderg39 was canceled by another mod
+[21Dec2024 05:26:32.646] [Server thread/INFO] [tombstone/]: The player enderg39 has successfully been saved
+[21Dec2024 05:26:42.676] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10941ms or 218 ticks behind
+[21Dec2024 05:27:09.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11703ms or 234 ticks behind
+[21Dec2024 05:27:32.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8158ms or 163 ticks behind
+[21Dec2024 05:27:55.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8154ms or 163 ticks behind
+[21Dec2024 05:28:06.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> rozen hazme tp plis
+[21Dec2024 05:28:17.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7178ms or 143 ticks behind
+[21Dec2024 05:28:43.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10510ms or 210 ticks behind
+[21Dec2024 05:29:12.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13998ms or 279 ticks behind
+[21Dec2024 05:29:39.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12207ms or 244 ticks behind
+[21Dec2024 05:29:47.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! -8.129585935887008,2.252203340253729,-5.5516667884398885
+[21Dec2024 05:29:47.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: enderg39 moved too quickly! -9.973735044684418,0.41999998688697815,-2.475193657981208
+[21Dec2024 05:30:03.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! -9.688631903320129,-0.12129684053920187,-3.488082840242896
+[21Dec2024 05:30:12.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Set own game mode to Spectator Mode]
+[21Dec2024 05:30:18.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23979ms or 479 ticks behind
+[21Dec2024 05:30:51.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roxanne711 moved too quickly! -5.344159894504628,-0.38021615686398036,-8.607167121162547
+[21Dec2024 05:30:56.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22694ms or 453 ticks behind
+[21Dec2024 05:31:00.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -9.8850163555594,0.0,2.7904490838454876
+[21Dec2024 05:31:00.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -10.15023887430425,0.0,2.930645273830123
+[21Dec2024 05:31:00.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -10.42561701692648,0.0,3.0727821976943233
+[21Dec2024 05:31:00.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -10.711076277554639,0.0,3.214300108111729
+[21Dec2024 05:31:00.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -11.006519087052766,0.0,3.3524123296874677
+[21Dec2024 05:31:00.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -11.311718467531591,0.0,3.4841592996224335
+[21Dec2024 05:31:00.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -11.626151637751718,0.0,3.607163326567388
+[21Dec2024 05:31:04.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -8.855924718474853,0.0,-5.166515454642877
+[21Dec2024 05:31:04.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -9.219434006283336,0.0,-5.2992451822524345
+[21Dec2024 05:31:04.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -9.585449783138301,0.0,-5.428194054642063
+[21Dec2024 05:31:04.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -9.953556678914538,0.0,-5.554390737464928
+[21Dec2024 05:31:22.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 8.26421105403142,0.0,5.849584540490014
+[21Dec2024 05:31:22.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 8.506427097357573,0.0,6.154945704076908
+[21Dec2024 05:31:22.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 8.742887317748682,0.0,6.465253340630852
+[21Dec2024 05:31:22.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 8.975597356487015,0.0,6.7792311437001445
+[21Dec2024 05:31:22.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 9.206778617947293,0.0,7.09538607912441
+[21Dec2024 05:31:22.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 9.438192780036388,0.0,7.4124021100028585
+[21Dec2024 05:31:22.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 9.671216626676596,0.0,7.729139175088676
+[21Dec2024 05:31:22.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 9.906910754903947,0.0,8.044623246691572
+[21Dec2024 05:31:22.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 10.146070693597267,0.0,8.358039344154577
+[21Dec2024 05:31:22.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 10.38927711618453,0.0,8.668716262446424
+[21Dec2024 05:31:22.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 10.63693636429025,0.0,8.976111937550513
+[21Dec2024 05:31:22.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 10.889312713162326,0.0,9.279800441090629
+[21Dec2024 05:31:22.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 11.146556177485309,0.0,9.579458340206429
+[21Dec2024 05:31:29.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! -6.520637228146143,0.7531999805212024,-7.624316144001568
+[21Dec2024 05:31:29.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -7.838922178291796,0.0,-6.443702996434922
+[21Dec2024 05:31:29.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -8.186728704412417,0.0,-6.633991587336368
+[21Dec2024 05:31:29.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -8.536165873655591,0.0,-6.821810811132764
+[21Dec2024 05:31:36.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -5.354996870114064,0.0,8.759121884421575
+[21Dec2024 05:31:36.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -5.570625026100515,0.0,9.093636858941636
+[21Dec2024 05:31:36.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -5.789208825107835,0.0,9.426304834109715
+[21Dec2024 05:31:36.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -6.009678965556759,0.0,9.757895875945223
+[21Dec2024 05:31:36.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -6.230563467513548,0.0,10.089425937109809
+[21Dec2024 05:31:36.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -6.450636157508143,0.0,10.421674865917339
+[21Dec2024 05:31:36.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -6.668889474589378,0.0,10.755230740565139
+[21Dec2024 05:31:36.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -6.8845106644666885,0.0,11.090525474680135
+[21Dec2024 05:31:36.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -7.0968515700033095,0.0,11.427868449283324
+[21Dec2024 05:31:36.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -7.305409917696579,0.0,11.767469390581482
+[21Dec2024 05:31:36.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roxanne711 moved too quickly! -0.062327959791218746,2.2409930474721023,10.12161255411661
+[21Dec2024 05:31:39.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -4.3572009987506135,0.0,9.3340281724345
+[21Dec2024 05:31:39.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -4.43962529807186,0.0,9.715572248911712
+[21Dec2024 05:31:39.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -4.5100238966419965,0.0,10.09878222954876
+[21Dec2024 05:31:39.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -4.568638486725831,0.0,10.483388415304944
+[21Dec2024 05:31:39.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -4.61578427219365,0.0,10.8691384546255
+[21Dec2024 05:31:39.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! -4.651834649893317,0.0,11.25580065273516
+[21Dec2024 05:31:47.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 7.7229356714819914,0.0,-6.948280176605067
+[21Dec2024 05:31:47.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 8.018822120358891,0.0,-7.217328467223751
+[21Dec2024 05:31:47.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 8.314677992885663,0.0,-7.486422248182862
+[21Dec2024 05:31:47.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 8.61050376320918,0.0,-7.755559805393204
+[21Dec2024 05:31:47.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 8.906302441550451,0.0,-8.024736761228496
+[21Dec2024 05:31:47.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 9.2020767371082,0.0,-8.293949175825446
+[21Dec2024 05:31:47.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 9.497829088161325,0.0,-8.56319350330682
+[21Dec2024 05:31:47.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 9.793561689160924,0.0,-8.832466552383494
+[21Dec2024 05:31:47.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 10.089276515112942,0.0,-9.101765450895527
+[21Dec2024 05:31:47.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 10.384975343522456,0.0,-9.371087613898453
+[21Dec2024 05:31:47.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 10.68065977414426,0.0,-9.640430714942795
+[21Dec2024 05:31:47.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 10.976331246757127,0.0,-9.90979266022373
+[21Dec2024 05:31:47.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 11.271991057162722,0.0,-10.179171565317347
+[21Dec2024 05:31:47.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 11.567640371581547,0.0,-10.44856573424181
+[21Dec2024 05:31:47.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 11.86327765426131,0.0,-10.71797647183439
+[21Dec2024 05:31:47.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 12.158904108376191,0.0,-10.987402121227888
+[21Dec2024 05:31:47.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 12.45452081678286,0.0,-11.256841191241847
+[21Dec2024 05:31:47.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 12.75012875405264,0.0,-11.526292339813835
+[21Dec2024 05:31:47.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 13.045728797299034,0.0,-11.795754359087823
+[21Dec2024 05:31:47.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 13.341321735924794,0.0,-12.06522616199345
+[21Dec2024 05:31:47.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 13.636908280392163,0.0,-12.334706770167259
+[21Dec2024 05:31:47.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of enderg39) moved too quickly! 13.932489070117299,0.0,-12.604195303082179
+[21Dec2024 05:31:47.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! -5.609534709452646,2.0,-8.148246434644989
+[21Dec2024 05:31:47.655] [Server thread/WARN] [tombstone/]: The death event of the player st_Div was canceled by another mod
+[21Dec2024 05:31:47.660] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stoneling['Torombolo'/1646, l='ServerLevel[world]', x=-2134.80, y=86.00, z=1904.16] died: Torombolo was killed
+[21Dec2024 05:31:47.663] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityRaccoon['ANDRE'/1663, l='ServerLevel[world]', x=-2133.25, y=86.00, z=1902.53] died: ANDRE was killed
+[21Dec2024 05:31:47.837] [Server thread/WARN] [tombstone/]: The death event of the player Roxanne711 was canceled by another mod
+[21Dec2024 05:31:47.871] [Server thread/WARN] [tombstone/]: The death event of the player enderg39 was canceled by another mod
+[21Dec2024 05:31:47.933] [Server thread/WARN] [tombstone/]: The death event of the player Duxaethera was canceled by another mod
+[21Dec2024 05:31:47.940] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Grumm'/12664, l='ServerLevel[world]', x=-2062.82, y=77.10, z=1865.30] died: Grumm was killed
+[21Dec2024 05:31:48.107] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Grumm'/14618, l='ServerLevel[world]', x=-2146.30, y=26.10, z=1647.70] died: Grumm was killed
+[21Dec2024 05:31:48.359] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/2907, l='ServerLevel[world]', x=-227.70, y=61.00, z=441.30] died: Pipeline Sentry was killed
+[21Dec2024 05:31:48.361] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/2908, l='ServerLevel[world]', x=-227.30, y=61.00, z=441.70] died: Pipeline Sentry was killed
+[21Dec2024 05:31:48.362] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/2909, l='ServerLevel[world]', x=-237.53, y=51.00, z=430.48] died: Pipeline Sentry was killed
+[21Dec2024 05:31:48.363] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/2945, l='ServerLevel[world]', x=-228.71, y=63.00, z=441.51] died: Pipeline Sentry was killed
+[21Dec2024 05:31:48.364] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/2956, l='ServerLevel[world]', x=-299.42, y=78.00, z=455.50] died: Pipeline Sentry was killed
+[21Dec2024 05:31:48.366] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/3022, l='ServerLevel[world]', x=-274.50, y=63.00, z=489.03] died: Pipeline Sentry was killed
+[21Dec2024 05:31:48.368] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/3023, l='ServerLevel[world]', x=-275.50, y=63.00, z=491.50] died: Pipeline Sentry was killed
+[21Dec2024 05:31:48.372] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/3028, l='ServerLevel[world]', x=-196.48, y=50.00, z=480.49] died: Pipeline Sentry was killed
+[21Dec2024 05:31:48.374] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/3029, l='ServerLevel[world]', x=-192.99, y=50.00, z=482.54] died: Pipeline Sentry was killed
+[21Dec2024 05:31:48.376] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/3033, l='ServerLevel[world]', x=-224.55, y=39.00, z=481.07] died: Pipeline Sentry was killed
+[21Dec2024 05:31:48.378] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/3035, l='ServerLevel[world]', x=-226.49, y=63.00, z=447.49] died: Pipeline Sentry was killed
+[21Dec2024 05:31:48.379] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/4613, l='ServerLevel[world]', x=-294.44, y=63.00, z=467.50] died: Pipeline Sentry was killed
+[21Dec2024 05:31:48.381] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/4635, l='ServerLevel[world]', x=-237.32, y=51.00, z=481.48] died: Pipeline Sentry was killed
+[21Dec2024 05:31:48.383] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/9029, l='ServerLevel[world]', x=-227.48, y=72.00, z=427.48] died: Pipeline Sentry was killed
+[21Dec2024 05:31:48.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Killed 1352 entities]
+[21Dec2024 05:31:49.583] [Server thread/INFO] [tombstone/]: The player st_Div has successfully been saved
+[21Dec2024 05:31:49.919] [Server thread/INFO] [tombstone/]: The player enderg39 has successfully been saved
+[21Dec2024 05:31:49.925] [Server thread/INFO] [tombstone/]: The player Duxaethera has successfully been saved
+[21Dec2024 05:31:58.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera was killed
+[21Dec2024 05:31:58.379] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Duxaethera with unique ID travelersbackpack.standard_21.12.2024-05.31.58.dat
+[21Dec2024 05:32:09.516] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.78 seconds (should be max 0.05)
+[21Dec2024 05:32:09.523] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[21Dec2024 05:32:12.719] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 8e79f11d-be2e-467d-941e-84f36b6b9726
+[21Dec2024 05:32:12.830] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID e15f8254-2fba-41a1-93a2-5a4bf0bfcde7
+[21Dec2024 05:32:12.832] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/BooBam/servidor_minecraft/./crash-reports/crash-2024-12-21_05.32.12-server.txt
+[21Dec2024 05:32:15.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roxanne711 moved too quickly! 0.8984018244559593,-9.937500740308806,0.949796204236236
+[21Dec2024 05:32:15.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Dec2024 05:32:15.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Dec2024 05:32:15.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: st_Div lost connection: Server closed
+[21Dec2024 05:32:15.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div left the game
+[21Dec2024 05:32:15.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div was killed
+[21Dec2024 05:32:15.385] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: enderg39 lost connection: Server closed
+[21Dec2024 05:32:15.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 left the game
+[21Dec2024 05:32:15.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
