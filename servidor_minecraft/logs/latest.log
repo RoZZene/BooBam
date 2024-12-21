@@ -127,3 +127,6 @@
 [21Dec2024 01:05:08.240] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Duxaethera[/127.76.157.201:51615] logged in with entity id 100400 at (-2041.3455974035744, 101.0, 1879.0722459475821)
 [21Dec2024 01:05:08.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera joined the game
 [21Dec2024 01:05:10.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2662ms or 53 ticks behind
+[21Dec2024 01:07:41.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[21Dec2024 01:13:15.506] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera lost connection: Disconnected
+[21Dec2024 01:13:15.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera left the game
