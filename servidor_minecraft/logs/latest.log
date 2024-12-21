@@ -150,3 +150,42 @@
 [21Dec2024 01:46:28.028] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Grumm'/60649, l='ServerLevel[world]', x=-1170.95, y=113.10, z=2576.70] died: Grumm was shot by Capybara_Zzz
 [21Dec2024 01:46:31.312] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Grumm'/89721, l='ServerLevel[world]', x=-1192.30, y=113.10, z=2576.70] died: Grumm was shot by Capybara_Zzz
 [21Dec2024 01:46:33.055] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Spider['Grumm'/87839, l='ServerLevel[world]', x=-1192.30, y=113.10, z=2576.70] died: Grumm was shot by Capybara_Zzz
+[21Dec2024 01:48:47.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[21Dec2024 01:49:08.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6498ms or 129 ticks behind
+[21Dec2024 01:50:59.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
+[21Dec2024 01:51:28.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has reached the goal [Fortuitous Militia]
+[21Dec2024 01:51:37.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> duermes?
+[21Dec2024 01:51:47.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
+[21Dec2024 01:51:48.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> voy
+[21Dec2024 01:53:15.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[21Dec2024 01:53:41.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21Dec2024 01:53:59.156] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2720ms or 54 ticks behind
+[21Dec2024 01:54:21.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[21Dec2024 01:54:39.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2739ms or 54 ticks behind
+[21Dec2024 01:55:03.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> sera q me ayudas?
+[21Dec2024 01:55:11.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> a farmear full madera
+[21Dec2024 01:55:30.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> toy como a mas de mil metros de casa
+[21Dec2024 01:55:35.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> xdddd
+[21Dec2024 01:55:42.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[21Dec2024 01:55:48.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> crees q la casa de los otros tengan huesos?
+[21Dec2024 01:55:57.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> para robarles q necesito polvo de hueso
+[21Dec2024 01:56:04.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> en mi casa hay
+[21Dec2024 01:56:15.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2627ms or 52 ticks behind
+[21Dec2024 01:56:18.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> voy
+[21Dec2024 01:56:35.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5162ms or 103 ticks behind
+[21Dec2024 01:56:47.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> atras de la casa blanca, el cofre del suelo
+[21Dec2024 01:56:53.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3621ms or 72 ticks behind
+[21Dec2024 01:57:00.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> oka
+[21Dec2024 01:57:08.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1382, y=72, z=3218} BlockPos{x=-1382, y=71, z=3217}
+[21Dec2024 01:57:11.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3101ms or 62 ticks behind
+[21Dec2024 01:57:37.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10380ms or 207 ticks behind
+[21Dec2024 01:57:46.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> pucha
+[21Dec2024 01:57:52.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> esta todo reforzado xd
+[21Dec2024 01:58:05.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> si cierto
+[21Dec2024 01:58:14.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> q desconfiados
+[21Dec2024 01:58:18.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> con todo el afan de ofender
+[21Dec2024 01:58:22.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> y yo tengo la llave pa abrir alla
+[21Dec2024 01:58:26.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> xddd
+[21Dec2024 01:58:29.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> bueno ntp
+[21Dec2024 01:58:38.076] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3240ms or 64 ticks behind
+[21Dec2024 01:59:10.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> de todas maneras caundo regrese a mi casa te llevo madera y polvo de hueso
