@@ -542,6 +542,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-21 00:17:29 +0000"
+    },
+    "done": false
+  },
   "twilightforest:progress_naga": {
     "criteria": {
       "naga": "2024-12-20 23:15:51 +0000"
