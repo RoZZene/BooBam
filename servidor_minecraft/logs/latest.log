@@ -82,3 +82,22 @@
 [21Dec2024 00:24:26.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13663ms or 273 ticks behind
 [21Dec2024 00:24:52.663] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11277ms or 225 ticks behind
 [21Dec2024 00:25:19.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12333ms or 246 ticks behind
+[21Dec2024 00:25:48.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13836ms or 276 ticks behind
+[21Dec2024 00:26:16.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12534ms or 250 ticks behind
+[21Dec2024 00:26:40.726] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9490ms or 189 ticks behind
+[21Dec2024 00:27:03.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7358ms or 147 ticks behind
+[21Dec2024 00:27:26.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8097ms or 161 ticks behind
+[21Dec2024 00:27:48.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Teleported Roxanne711 to -17351.500000, 4.000000, 15695.500000]
+[21Dec2024 00:27:50.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9371ms or 187 ticks behind
+[21Dec2024 00:27:58.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Teleported drewfm236 to Roxanne711]
+[21Dec2024 00:28:09.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 moved too quickly! 15197.681478665934,95.32352912385574,-13720.358631328698
+[21Dec2024 00:28:11.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roxanne711 moved too quickly! 15197.994928413777,95.07840000152588,-13720.636532848524
+[21Dec2024 00:28:20.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15543ms or 310 ticks behind
+[21Dec2024 00:28:41.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[21Dec2024 00:29:09.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[21Dec2024 00:29:29.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[21Dec2024 00:30:16.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 has completed the challenge [Naga Armorer]
+[21Dec2024 00:30:45.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has made the advancement [Ol' Betsy]
+[21Dec2024 00:33:26.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[21Dec2024 00:33:35.700] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: st_Div lost connection: Disconnected
+[21Dec2024 00:33:35.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div left the game

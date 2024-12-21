@@ -542,15 +542,21 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "twilightforest:twilight_dinner": {
     "criteria": {
-      "requirement": "2024-12-21 00:17:29 +0000"
+      "raw_venison": "2024-12-21 00:23:41 +0000"
     },
     "done": false
   },
   "twilightforest:progress_naga": {
     "criteria": {
       "naga": "2024-12-20 23:15:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:naga_armors": {
+    "criteria": {
+      "armor": "2024-12-21 00:30:16 +0000"
     },
     "done": true
   },
