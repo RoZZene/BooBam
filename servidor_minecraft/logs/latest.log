@@ -689,3 +689,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Dec2024 04:11:37.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 joined the game
 [21Dec2024 04:11:42.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5570ms or 111 ticks behind
 [21Dec2024 04:12:02.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5541ms or 110 ticks behind
+[21Dec2024 04:24:09.586] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roxanne711 lost connection: Disconnected
+[21Dec2024 04:24:09.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 left the game
+[21Dec2024 04:25:07.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Dec2024 04:25:07.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Dec2024 04:25:07.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Dec2024 04:25:07.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Dec2024 04:25:07.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Dec2024 04:25:07.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Dec2024 04:25:07.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[21Dec2024 04:25:07.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[21Dec2024 04:25:07.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Dec2024 04:25:07.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Dec2024 04:25:07.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Dec2024 04:25:07.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[21Dec2024 04:25:07.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[21Dec2024 04:25:07.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Dec2024 04:25:07.596] [Server thread/INFO] [Framework/]: Unloading server configs...
+[21Dec2024 04:25:07.601] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[21Dec2024 04:25:07.603] [Server thread/INFO] [Framework/]: Finished unloading server configs
