@@ -189,3 +189,134 @@
 [21Dec2024 01:58:29.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> bueno ntp
 [21Dec2024 01:58:38.076] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3240ms or 64 ticks behind
 [21Dec2024 01:59:10.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> de todas maneras caundo regrese a mi casa te llevo madera y polvo de hueso
+[21Dec2024 01:59:13.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[21Dec2024 01:59:17.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> okey
+[21Dec2024 01:59:38.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10284ms or 205 ticks behind
+[21Dec2024 02:00:13.598] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz lost connection: Disconnected
+[21Dec2024 02:00:13.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz left the game
+[21Dec2024 02:00:18.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! 1.0506669972414784,-2.676470876144279,9.636482167806207
+[21Dec2024 02:00:23.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Capybara_Zzz[/127.89.56.177:47315] logged in with entity id 118829 at (-1190.3676943869784, 111.0, 2558.419752984863)
+[21Dec2024 02:00:23.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz joined the game
+[21Dec2024 02:00:24.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30361ms or 607 ticks behind
+[21Dec2024 02:00:32.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera moved too quickly! 1.5147378597969237,-0.7967356006687112,10.176956959817744
+[21Dec2024 02:00:44.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4985ms or 99 ticks behind
+[21Dec2024 02:01:01.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2985ms or 59 ticks behind
+[21Dec2024 02:03:24.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[21Dec2024 02:04:08.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[21Dec2024 02:05:22.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[21Dec2024 02:05:39.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2355ms or 47 ticks behind
+[21Dec2024 02:05:57.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2917ms or 58 ticks behind
+[21Dec2024 02:06:16.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3660ms or 73 ticks behind
+[21Dec2024 02:06:33.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
+[21Dec2024 02:06:51.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2751ms or 55 ticks behind
+[21Dec2024 02:07:08.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2342ms or 46 ticks behind
+[21Dec2024 02:07:30.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[21Dec2024 02:07:47.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2412ms or 48 ticks behind
+[21Dec2024 02:08:06.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3721ms or 74 ticks behind
+[21Dec2024 02:08:24.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3038ms or 60 ticks behind
+[21Dec2024 02:08:41.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[21Dec2024 02:08:59.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2770ms or 55 ticks behind
+[21Dec2024 02:09:18.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4189ms or 83 ticks behind
+[21Dec2024 02:09:36.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3296ms or 65 ticks behind
+owcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Dec2024 02:07:22.666] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/BooBam/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Dec2024 02:07:25.561] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[21Dec2024 02:07:25.571] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: cumulus_menus. Using Mod File: /workspaces/BooBam/servidor_minecraft/mods/cumulus_menus-1.20.1-1.0.1-neoforge.jar
+[21Dec2024 02:07:25.573] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/BooBam/servidor_minecraft/mods/curios-forge-5.11.0+1.20.1.jar
+[21Dec2024 02:07:25.574] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
+[21Dec2024 02:08:31.000] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[21Dec2024 02:08:35.582] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[21Dec2024 02:08:36.857] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 02:08:39.001] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 02:08:39.007] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 02:08:39.442] [main/INFO] [Puzzles Lib/]: Loading 86 mods:
+	- aether 1.20.1-1.5.1-neoforge
+		|-- mixinextras 0.2.0-beta.9
+		\-- nitrogen_internals 1.20.1-1.0.11-neoforge
+	- alexsmobs 1.22.9
+	- another_furniture 1.20.1-3.0.1
+	- aquaculture 2.5.3
+	- architectury 9.2.14
+	- artifacts 9.5.13
+		\-- expandability 9.0.4
+	- balm 7.3.9
+		\-- kuma_api 20.1.8
+	- betterdeserttemples 1.20-Forge-3.0.3
+	- betterdungeons 1.20-Forge-4.0.4
+	- betterendisland 1.20-Forge-2.0.6
+	- betterfortresses 1.20-Forge-2.0.6
+	- betterjungletemples 1.20-Forge-2.0.5
+	- bettermineshafts 1.20-Forge-4.0.4
+	- betteroceanmonuments 1.20-Forge-3.0.4
+	- betterstrongholds 1.20-Forge-4.0.3
+	- bettervillage 3.2.0
+	- betterwitchhuts 1.20-Forge-3.0.3
+	- biomesoplenty 19.0.0.91
+	- blueprint 7.1.0
+	- caelus 3.2.0+1.20.1
+	- carryon 2.1.2.7
+	- citadel 2.6.0
+	- cloth_config 11.1.136
+	- clumps 12.0.0.4
+	- cosmeticarmorreworked 1.20.1-v1a
+	- crafting_on_a_stick 1.1.5
+	- creativecore 2.12.25
+	- cristellib 1.1.6
+	- cumulus_menus 1.20.1-1.0.1-neoforge
+	- cupboard 1.20.1-2.7
+	- curios 5.11.0+1.20.1
+	- dungeons_arise 2.1.58-1.20.x
+	- dynamiclights 1.20.1.2
+	- elevatorid 1.20.1-lex-1.9
+	- elytraslot 6.4.4+1.20.1
+		\-- mixinsquared 0.1.2-beta.6
+	- enchantinginfuser 8.0.3
+	- fastconfigapi 2.1.0
+	- forge 47.3.7
+	- framework 0.7.12
+	- geckolib 4.4.9
+	- glitchcore 0.0.1.1
+	- iceandfire 2.1.13-1.20.1
+	- incendium 5.3.5
+	- ironchest 1.20.1-14.4.4
+	- jei 15.20.0.105
+	- labellingcontainers 1.8.0
+	- libraryferret 4.0.0
+	- minecraft 1.20.1
+	- moonlight 1.20-2.13.37
+	- moremobs 1.5.4+mod
+	- mousetweaks 2.25.1
+	- mowziesmobs 1.6.4
+	- paraglider 20.1.3
+	- personality 4.0.0
+	- playerrevive 2.0.30
+	- puzzleslib 8.1.25
+		\-- puzzlesaccessapi 8.0.7
+	- quark 4.0-460
+	- refurbished_furniture 1.0.8
+	- repurposed_structures 7.1.15+1.20.1-forge
+	- securitycraft 1.9.12
+	- skinrestorer 2.2.0+1.20-forge
+	- spartanshields 3.1.1
+	- spartanweaponry 3.1.3
+	- t_and_t 0.0NONE
+	- terrablender 3.0.1.7
+	- tombstone 8.8.6
+	- torchmaster 20.1.9
+	- trashslot 15.1.0
+	- travelersbackpack 9.1.16
+	- travelerstitles 1.20-Forge-4.0.2
+	- treechop 0.19.0
+	- twilightforest 4.3.2508
+	- vanillaplustools 1.20-1.0
+	- void_lib 1.1.5
+	- watching 1.9.2
+	- waystones 14.1.6
+	- yungsapi 1.20-Forge-4.0.6
+	- yungsbridges 1.20-Forge-4.0.3
+	- yungsextras 1.20-Forge-4.0.3
+	- zeta 1.0-24
+[21Dec2024 02:08:39.517] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 02:08:39.611] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Dec2024 02:09:14.320] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/config/ConfigManager (java.lang.ClassNotFoundException: noobanidus.mods.lootr.config.ConfigManager)
+[21Dec2024 02:09:23.770] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
