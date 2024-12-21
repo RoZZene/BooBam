@@ -130,3 +130,13 @@
 [21Dec2024 01:07:41.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
 [21Dec2024 01:13:15.506] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Duxaethera lost connection: Disconnected
 [21Dec2024 01:13:15.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera left the game
+[21Dec2024 01:32:50.182] [Thread-247/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[21Dec2024 01:32:50.241] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Duxaethera[/127.76.157.201:35149] logged in with entity id 104583 at (-2039.1384763457993, 101.0, 1876.762499988079)
+[21Dec2024 01:32:50.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera joined the game
+[21Dec2024 01:32:52.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
+[21Dec2024 01:33:49.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has made the advancement [An Assassin's Need]
+[21Dec2024 01:35:37.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2129ms or 42 ticks behind
+[21Dec2024 01:35:56.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[21Dec2024 01:36:18.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6999ms or 139 ticks behind
+[21Dec2024 01:37:12.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[21Dec2024 01:37:31.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3592ms or 71 ticks behind
